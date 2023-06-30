@@ -1,0 +1,6034 @@
+[
+  {
+    "P_ID": "1",
+    "P_CODE": "10101",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Phaktanlung Rural Municipality",
+    "LOCAL_GOV_NP": "फक्ताङ्लुङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "2",
+    "P_CODE": "10102",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Mikwakhola Rural Municipality",
+    "LOCAL_GOV_NP": "मिक्वाखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "3",
+    "P_CODE": "10103",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Meringden Rural Municipality",
+    "LOCAL_GOV_NP": "मेरिङ्गदेन गाउँपालिका"
+  },
+  {
+    "P_ID": "4",
+    "P_CODE": "10104",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Maiwakhola Rural Municipality",
+    "LOCAL_GOV_NP": "मैवाखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "5",
+    "P_CODE": "10105",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Aatharai Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "आठराई त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "6",
+    "P_CODE": "10106",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Phungling Urban Municipality",
+    "LOCAL_GOV_NP": "फुङलिङ्ग नगरपालिका"
+  },
+  {
+    "P_ID": "7",
+    "P_CODE": "10107",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Pathivara Yangwarak Rural Municipality",
+    "LOCAL_GOV_NP": "पाथीभरा याङवरक गाउँपालिका"
+  },
+  {
+    "P_ID": "8",
+    "P_CODE": "10108",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Sirijanga Rural Municipality",
+    "LOCAL_GOV_NP": "सिरीजङ्गा गाउंपालिका"
+  },
+  {
+    "P_ID": "9",
+    "P_CODE": "10109",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Taplejung",
+    "LOCAL_GOV_EN": "Sidingba Rural Municipality",
+    "LOCAL_GOV_NP": "सिदिङ्गवा गाउँपालिका"
+  },
+  {
+    "P_ID": "10",
+    "P_CODE": "10201",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Bhotkhola Rural Municipality",
+    "LOCAL_GOV_NP": "भोटखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "11",
+    "P_CODE": "10202",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Makalu Rural Municipality",
+    "LOCAL_GOV_NP": "मकालु गाउँपालिका"
+  },
+  {
+    "P_ID": "12",
+    "P_CODE": "10203",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Silichong Rural Municipality",
+    "LOCAL_GOV_NP": "सिलीचोङ गाउँपालिका"
+  },
+  {
+    "P_ID": "13",
+    "P_CODE": "10204",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Chichila Rural Municipality",
+    "LOCAL_GOV_NP": "चिचिला गाउँपालिका"
+  },
+  {
+    "P_ID": "14",
+    "P_CODE": "10205",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Sabhapokhari Rural Municipality",
+    "LOCAL_GOV_NP": "सभापोखरी गाउँपालिका"
+  },
+  {
+    "P_ID": "15",
+    "P_CODE": "10206",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Khandabari Urban Municipality",
+    "LOCAL_GOV_NP": "खाँदबारी नगरपालिका"
+  },
+  {
+    "P_ID": "16",
+    "P_CODE": "10207",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Panchakhapan Urban Municipality",
+    "LOCAL_GOV_NP": "पाँचखपन नगरपालिका"
+  },
+  {
+    "P_ID": "17",
+    "P_CODE": "10208",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Chainapur Urban Municipality",
+    "LOCAL_GOV_NP": "चैनपुर नगरपालिका"
+  },
+  {
+    "P_ID": "18",
+    "P_CODE": "10209",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Madi Urban Municipality",
+    "LOCAL_GOV_NP": "मादी नगरपालिका"
+  },
+  {
+    "P_ID": "19",
+    "P_CODE": "10210",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sankhuwasabha",
+    "LOCAL_GOV_EN": "Dharmadevi Urban Municipality",
+    "LOCAL_GOV_NP": "धर्मदेवी नगरपालिका"
+  },
+  {
+    "P_ID": "20",
+    "P_CODE": "10301",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Khumbu Pasanglhamu Rural Municipality",
+    "LOCAL_GOV_NP": "खुम्बु पासाङल्हामु गाउँपालिका"
+  },
+  {
+    "P_ID": "21",
+    "P_CODE": "10302",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Mahakulung Rural Municipality",
+    "LOCAL_GOV_NP": "माहाकुलुङ गाउँपालिका"
+  },
+  {
+    "P_ID": "22",
+    "P_CODE": "10303",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Sotang Rural Municipality",
+    "LOCAL_GOV_NP": "सोताङ गाउँपालिका"
+  },
+  {
+    "P_ID": "23",
+    "P_CODE": "10304",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Mapya Dudhkoshi Rural Municipality",
+    "LOCAL_GOV_NP": "माप्य दुधकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "24",
+    "P_CODE": "10305",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Thulung Dudhkoshi Rural Municipality",
+    "LOCAL_GOV_NP": "थुलुङ दुधकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "25",
+    "P_CODE": "10306",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Necha Salyan Rural Municipality",
+    "LOCAL_GOV_NP": "नेचासल्यान गाउँपालिका"
+  },
+  {
+    "P_ID": "26",
+    "P_CODE": "10307",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Solu Dhudhakunda Urban Municipality",
+    "LOCAL_GOV_NP": "सोलुदुधकुण्ड नगरपालिका"
+  },
+  {
+    "P_ID": "27",
+    "P_CODE": "10308",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Solukhumbu",
+    "LOCAL_GOV_EN": "Likhu Pike Rural Municipality",
+    "LOCAL_GOV_NP": "लिखु पिके गाउँपालिका"
+  },
+  {
+    "P_ID": "28",
+    "P_CODE": "10401",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Chishankhu Gadhi Rural Municipality",
+    "LOCAL_GOV_NP": "चिशंखुगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "29",
+    "P_CODE": "10402",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Siddhicharan Urban Municipality",
+    "LOCAL_GOV_NP": "सिद्धिचरण नगरपालिका"
+  },
+  {
+    "P_ID": "30",
+    "P_CODE": "10403",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Molung Rural Municipality",
+    "LOCAL_GOV_NP": "मोलुङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "31",
+    "P_CODE": "10404",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Khiji Demba Rural Municipality",
+    "LOCAL_GOV_NP": "खिजीदेम्बा गाउँपालिका"
+  },
+  {
+    "P_ID": "32",
+    "P_CODE": "10405",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Likhu Rural Municipality",
+    "LOCAL_GOV_NP": "लिखु गाउँपालिका"
+  },
+  {
+    "P_ID": "33",
+    "P_CODE": "10406",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Champadevi Rural Municipality",
+    "LOCAL_GOV_NP": "चम्पादेवी गाउँपालिका"
+  },
+  {
+    "P_ID": "34",
+    "P_CODE": "10407",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Sunkoshi Rural Municipality",
+    "LOCAL_GOV_NP": "सुनकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "35",
+    "P_CODE": "10408",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Okhaldhunga",
+    "LOCAL_GOV_EN": "Manebhanjyang Rural Municipality",
+    "LOCAL_GOV_NP": "मानेभन्ज्याङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "36",
+    "P_CODE": "10501",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Kepilasgadhi Rural Municipality",
+    "LOCAL_GOV_NP": "केपिलासगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "37",
+    "P_CODE": "10502",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Aiselukharka Rural Municipality",
+    "LOCAL_GOV_NP": "ऐसेलुखर्क गाउँपालिका"
+  },
+  {
+    "P_ID": "38",
+    "P_CODE": "10503",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Rawa Besi Rural Municipality",
+    "LOCAL_GOV_NP": "रावा बेसी गाउँपालिका"
+  },
+  {
+    "P_ID": "39",
+    "P_CODE": "10504",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Halesi Tuwachung Urban Municipality",
+    "LOCAL_GOV_NP": "हलेसी तुवाचुङ नगरपालिका"
+  },
+  {
+    "P_ID": "40",
+    "P_CODE": "10505",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Diktel Rupakot Majhuwagadhi Urban Municipality",
+    "LOCAL_GOV_NP": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका"
+  },
+  {
+    "P_ID": "41",
+    "P_CODE": "10506",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Sakela Rural Municipality",
+    "LOCAL_GOV_NP": "साकेला गाउँपालिका"
+  },
+  {
+    "P_ID": "42",
+    "P_CODE": "10507",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Diprung Chuichumma Rural Municipality",
+    "LOCAL_GOV_NP": "दिप्रुङ चुइचुम्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "43",
+    "P_CODE": "10508",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Khotehang Rural Municipality",
+    "LOCAL_GOV_NP": "खोटेहाङ गाउँपालिका"
+  },
+  {
+    "P_ID": "44",
+    "P_CODE": "10509",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Jante Dhunga Rural Municipality",
+    "LOCAL_GOV_NP": "जन्तेढुङ्गा गाउँपालिका"
+  },
+  {
+    "P_ID": "45",
+    "P_CODE": "10510",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Khotang",
+    "LOCAL_GOV_EN": "Baraha Pokhari Rural Municipality",
+    "LOCAL_GOV_NP": "बराहपोखरी गाउँपालिका"
+  },
+  {
+    "P_ID": "46",
+    "P_CODE": "10601",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Shadananda Urban Municipality",
+    "LOCAL_GOV_NP": "षडानन्द नगरपालिका"
+  },
+  {
+    "P_ID": "47",
+    "P_CODE": "10602",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Salpa Silichho Rural Municipality",
+    "LOCAL_GOV_NP": "साल्पासिलिछो गाउँपालिका"
+  },
+  {
+    "P_ID": "48",
+    "P_CODE": "10603",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Temkemaiyum Rural Municipality",
+    "LOCAL_GOV_NP": "टेम्केमैयुङ गाउँपालिका"
+  },
+  {
+    "P_ID": "49",
+    "P_CODE": "10604",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Bhojpur Urban Municipality",
+    "LOCAL_GOV_NP": "भोजपुर नगरपालिका"
+  },
+  {
+    "P_ID": "50",
+    "P_CODE": "10605",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Arun Rural Municipality",
+    "LOCAL_GOV_NP": "अरुण गाउँपालिका"
+  },
+  {
+    "P_ID": "51",
+    "P_CODE": "10606",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Pauwa Dunma Rural Municipality",
+    "LOCAL_GOV_NP": "पौवा दुङ्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "52",
+    "P_CODE": "10607",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Ramprasad Rai Rural Municipality",
+    "LOCAL_GOV_NP": "रामप्रसाद राई गाउँपालिका"
+  },
+  {
+    "P_ID": "53",
+    "P_CODE": "10608",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Hatuwagadhi Rural Municipality",
+    "LOCAL_GOV_NP": "हतुवागढी गाउँपालिका"
+  },
+  {
+    "P_ID": "54",
+    "P_CODE": "10609",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Bhojpur",
+    "LOCAL_GOV_EN": "Aamchowk Rural Municipality",
+    "LOCAL_GOV_NP": "आमचोक गाउँपालिका"
+  },
+  {
+    "P_ID": "55",
+    "P_CODE": "10701",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Mahalaxmi Urban Municipality",
+    "LOCAL_GOV_NP": "महालक्ष्मी नगरपालिका"
+  },
+  {
+    "P_ID": "56",
+    "P_CODE": "10702",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Pakhribas Urban Municipality",
+    "LOCAL_GOV_NP": "पाख्रिबास नगरपालिका"
+  },
+  {
+    "P_ID": "57",
+    "P_CODE": "10703",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Chhathar Jorpati Rural Municipality",
+    "LOCAL_GOV_NP": "छथर जोरपाटी गाउँपालिका"
+  },
+  {
+    "P_ID": "58",
+    "P_CODE": "10704",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Dhankuta Urban Municipality",
+    "LOCAL_GOV_NP": "धनकुटा नगरपालिका"
+  },
+  {
+    "P_ID": "59",
+    "P_CODE": "10705",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Shahidbhumi Rural Municipality",
+    "LOCAL_GOV_NP": "सहिदभूमि गाउँपालिका"
+  },
+  {
+    "P_ID": "60",
+    "P_CODE": "10706",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Sangurigadhi Rural Municipality",
+    "LOCAL_GOV_NP": "साँगुरीगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "61",
+    "P_CODE": "10707",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Dhankuta",
+    "LOCAL_GOV_EN": "Chaubise Rural Municipality",
+    "LOCAL_GOV_NP": "चौविसे गाउँपालिका"
+  },
+  {
+    "P_ID": "62",
+    "P_CODE": "10801",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Aatharai Rural Municipality",
+    "LOCAL_GOV_NP": "आठराई गाउँपालिका"
+  },
+  {
+    "P_ID": "63",
+    "P_CODE": "10802",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Phedap Rural Municipality",
+    "LOCAL_GOV_NP": "फेदाप गाउँपालिका"
+  },
+  {
+    "P_ID": "64",
+    "P_CODE": "10803",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Menchhayayem Rural Municipality",
+    "LOCAL_GOV_NP": "मेन्छयायेम गाउँपालिका"
+  },
+  {
+    "P_ID": "65",
+    "P_CODE": "10804",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Myanglung Urban Municipality",
+    "LOCAL_GOV_NP": "म्याङ्गलुङ्ग नगरपालिका"
+  },
+  {
+    "P_ID": "66",
+    "P_CODE": "10805",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Laligurans Urban Municipality",
+    "LOCAL_GOV_NP": "लालीगुराँस नगरपालिका"
+  },
+  {
+    "P_ID": "67",
+    "P_CODE": "10806",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Terhathum",
+    "LOCAL_GOV_EN": "Chhathar Rural Municipality",
+    "LOCAL_GOV_NP": "छथर गाउँपालिका"
+  },
+  {
+    "P_ID": "68",
+    "P_CODE": "10901",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Yangbarak Rural Municipality",
+    "LOCAL_GOV_NP": "याङवरक गाउँपालिका"
+  },
+  {
+    "P_ID": "69",
+    "P_CODE": "10902",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Hilihan Rural Municipality",
+    "LOCAL_GOV_NP": "हिलिहाङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "70",
+    "P_CODE": "10903",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Falelung Rural Municipality",
+    "LOCAL_GOV_NP": "फालेलुङ  गाउँपालिका"
+  },
+  {
+    "P_ID": "71",
+    "P_CODE": "10904",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Phidim Urban Municipality",
+    "LOCAL_GOV_NP": "फिदिम नगरपालिका"
+  },
+  {
+    "P_ID": "72",
+    "P_CODE": "10905",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Falgunanda Rural Municipality",
+    "LOCAL_GOV_NP": "फाल्गुनन्द गाउँपालिका"
+  },
+  {
+    "P_ID": "73",
+    "P_CODE": "10906",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Kummayak Rural Municipality",
+    "LOCAL_GOV_NP": "कुम्मायक गाउँपालिका"
+  },
+  {
+    "P_ID": "74",
+    "P_CODE": "10907",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Tumbewa Rural Municipality",
+    "LOCAL_GOV_NP": "तुम्बेवा गाउँपालिका"
+  },
+  {
+    "P_ID": "75",
+    "P_CODE": "10908",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Panchthar",
+    "LOCAL_GOV_EN": "Miklajung Rural Municipality",
+    "LOCAL_GOV_NP": "मिक्लाजुङ गाउँपालिका"
+  },
+  {
+    "P_ID": "76",
+    "P_CODE": "11001",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Mai Jogmai Rural Municipality",
+    "LOCAL_GOV_NP": "माई जोगमाई गाउँपालिका"
+  },
+  {
+    "P_ID": "77",
+    "P_CODE": "11002",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Sandakpur Rural Municipality",
+    "LOCAL_GOV_NP": "सन्दकपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "78",
+    "P_CODE": "11003",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Illam Urban Municipality",
+    "LOCAL_GOV_NP": "ईलाम नगरपालिका"
+  },
+  {
+    "P_ID": "79",
+    "P_CODE": "11004",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Deumai Urban Municipality",
+    "LOCAL_GOV_NP": "देउमाई नगरपालिका"
+  },
+  {
+    "P_ID": "80",
+    "P_CODE": "11005",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Fakfokathum Rural Municipality",
+    "LOCAL_GOV_NP": "फाकफोकथुम गाउँपालिका"
+  },
+  {
+    "P_ID": "81",
+    "P_CODE": "11006",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Mangsebung Rural Municipality",
+    "LOCAL_GOV_NP": "माङसेबुङ गाउँपालिका"
+  },
+  {
+    "P_ID": "82",
+    "P_CODE": "11007",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Chulachuli Rural Municipality",
+    "LOCAL_GOV_NP": "चुलाचुली गाउँपालिका"
+  },
+  {
+    "P_ID": "83",
+    "P_CODE": "11008",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Mai Urban Municipality",
+    "LOCAL_GOV_NP": "माई नगरपालिका"
+  },
+  {
+    "P_ID": "84",
+    "P_CODE": "11009",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Suryodaya Urban Municipality",
+    "LOCAL_GOV_NP": "सूर्योदय नगरपालिका"
+  },
+  {
+    "P_ID": "85",
+    "P_CODE": "11010",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Ilam",
+    "LOCAL_GOV_EN": "Rong Rural Municipality",
+    "LOCAL_GOV_NP": "रोङ गाउँपालिका"
+  },
+  {
+    "P_ID": "86",
+    "P_CODE": "11101",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Mechinagar Urban Municipality",
+    "LOCAL_GOV_NP": "मेचीनगर नगरपालिका"
+  },
+  {
+    "P_ID": "87",
+    "P_CODE": "11102",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Buddhashanti Rural Municipality",
+    "LOCAL_GOV_NP": "बुद्धशान्ति गाउँपालिका"
+  },
+  {
+    "P_ID": "88",
+    "P_CODE": "11103",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Arjundhara Urban Municipality",
+    "LOCAL_GOV_NP": "अर्जुनधारा नगरपालिका"
+  },
+  {
+    "P_ID": "89",
+    "P_CODE": "11104",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Kankai Urban Municipality",
+    "LOCAL_GOV_NP": "कन्काई नगरपालिका"
+  },
+  {
+    "P_ID": "90",
+    "P_CODE": "11105",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Shivasatakshi Urban Municipality",
+    "LOCAL_GOV_NP": "शिवसताक्षी नगरपालिका"
+  },
+  {
+    "P_ID": "91",
+    "P_CODE": "11106",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Kamal Rural Municipality",
+    "LOCAL_GOV_NP": "कमल गाउँपालिका"
+  },
+  {
+    "P_ID": "92",
+    "P_CODE": "11107",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Damak Urban Municipality",
+    "LOCAL_GOV_NP": "दमक नगरपालिका"
+  },
+  {
+    "P_ID": "93",
+    "P_CODE": "11108",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Gauradaha Urban Municipality",
+    "LOCAL_GOV_NP": "गौरादह नगरपालिका"
+  },
+  {
+    "P_ID": "94",
+    "P_CODE": "11109",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Gauriganj Rural Municipality",
+    "LOCAL_GOV_NP": "गौरिगञ्ज गाउँपालिका"
+  },
+  {
+    "P_ID": "95",
+    "P_CODE": "11110",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Jhapa Rural Municipality",
+    "LOCAL_GOV_NP": "झापा गाउँपालिका"
+  },
+  {
+    "P_ID": "96",
+    "P_CODE": "11111",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Barhadashi Rural Municipality",
+    "LOCAL_GOV_NP": "बाह्रदशी गाउँपालिका"
+  },
+  {
+    "P_ID": "97",
+    "P_CODE": "11112",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Birtamod Urban Municipality",
+    "LOCAL_GOV_NP": "बिर्तामोड नगरपालिका"
+  },
+  {
+    "P_ID": "98",
+    "P_CODE": "11113",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Haldibari Rural Municipality",
+    "LOCAL_GOV_NP": "हल्दीबारी गाउँपालिका"
+  },
+  {
+    "P_ID": "99",
+    "P_CODE": "11114",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Bhadrapur Urban Municipality",
+    "LOCAL_GOV_NP": "भद्रपुर नगरपालिका"
+  },
+  {
+    "P_ID": "100",
+    "P_CODE": "11115",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Jhapa",
+    "LOCAL_GOV_EN": "Kachanakawal Rural Municipality",
+    "LOCAL_GOV_NP": "कचनकवल गाउँपालिका"
+  },
+  {
+    "P_ID": "101",
+    "P_CODE": "11201",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Miklajung Rural Municipality",
+    "LOCAL_GOV_NP": "मिक्लाजुङ गाउँपालिका"
+  },
+  {
+    "P_ID": "102",
+    "P_CODE": "11202",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Letang Urban Municipality",
+    "LOCAL_GOV_NP": "लेटाङ नगरपालिका"
+  },
+  {
+    "P_ID": "103",
+    "P_CODE": "11203",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Kerabari Rural Municipality",
+    "LOCAL_GOV_NP": "केराबारी गाउँपालिका"
+  },
+  {
+    "P_ID": "104",
+    "P_CODE": "11204",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Sundarharaicha Urban Municipality",
+    "LOCAL_GOV_NP": "सुन्दरहरैंचा नगरपालिका"
+  },
+  {
+    "P_ID": "105",
+    "P_CODE": "11205",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Belbari Urban Municipality",
+    "LOCAL_GOV_NP": "बेलबारी नगरपालिका"
+  },
+  {
+    "P_ID": "106",
+    "P_CODE": "11206",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Kanepokhari Rural Municipality",
+    "LOCAL_GOV_NP": "कानेपोखरी गाउँपालिका"
+  },
+  {
+    "P_ID": "107",
+    "P_CODE": "11207",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Pathari Shanishchare Urban Municipality",
+    "LOCAL_GOV_NP": "पथरी शनिश्चरे नगरपालिका"
+  },
+  {
+    "P_ID": "108",
+    "P_CODE": "11208",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Urlabari Urban Municipality",
+    "LOCAL_GOV_NP": "उर्लाबारी नगरपालिका"
+  },
+  {
+    "P_ID": "109",
+    "P_CODE": "11209",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Ratuwamai Urban Municipality",
+    "LOCAL_GOV_NP": "रतुवामाई नगरपालिका"
+  },
+  {
+    "P_ID": "110",
+    "P_CODE": "11210",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Sunwarshi Urban Municipality",
+    "LOCAL_GOV_NP": "सुनवर्षी नगरपालिका"
+  },
+  {
+    "P_ID": "111",
+    "P_CODE": "11211",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Rangeli Urban Municipality",
+    "LOCAL_GOV_NP": "रंगेली नगरपालिका"
+  },
+  {
+    "P_ID": "112",
+    "P_CODE": "11212",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Gramthan Rural Municipality",
+    "LOCAL_GOV_NP": "ग्रामथान गाउँपालिका"
+  },
+  {
+    "P_ID": "113",
+    "P_CODE": "11213",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Budhiganga Rural Municipality",
+    "LOCAL_GOV_NP": "बुढीगंगा गाउँपालिका"
+  },
+  {
+    "P_ID": "114",
+    "P_CODE": "11214",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Biratnagar Metropolitian City",
+    "LOCAL_GOV_NP": "बिराटनगर महानगरपालिका"
+  },
+  {
+    "P_ID": "115",
+    "P_CODE": "11215",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Katahari Rural Municipality",
+    "LOCAL_GOV_NP": "कटहरी गाउँपालिका"
+  },
+  {
+    "P_ID": "116",
+    "P_CODE": "11216",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Dhanapalthan Rural Municipality",
+    "LOCAL_GOV_NP": "धनपालथान गाउँपालिका"
+  },
+  {
+    "P_ID": "117",
+    "P_CODE": "11217",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Morang",
+    "LOCAL_GOV_EN": "Jahada Rural Municipality",
+    "LOCAL_GOV_NP": "जहदा गाउँपालिका"
+  },
+  {
+    "P_ID": "118",
+    "P_CODE": "11301",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Dharan Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "धरान उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "119",
+    "P_CODE": "11302",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Barahachhetra Urban Municipality",
+    "LOCAL_GOV_NP": "बराहक्षेत्र नगरपालिका"
+  },
+  {
+    "P_ID": "120",
+    "P_CODE": "11303",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Koshi Rural Municipality",
+    "LOCAL_GOV_NP": "कोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "121",
+    "P_CODE": "11304",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Bhokraha Narsingh Rural Municipality",
+    "LOCAL_GOV_NP": "भोक्राहा नरसिंह गाउँपालिका"
+  },
+  {
+    "P_ID": "122",
+    "P_CODE": "11305",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Ramdhuni Urban Municipality",
+    "LOCAL_GOV_NP": "रामधुनी नगरपालिका"
+  },
+  {
+    "P_ID": "123",
+    "P_CODE": "11306",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Itahari Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "ईटहरी उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "124",
+    "P_CODE": "11307",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Duhabi Urban Municipality",
+    "LOCAL_GOV_NP": "दुहबी नगरपालिका"
+  },
+  {
+    "P_ID": "125",
+    "P_CODE": "11308",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Gadhi Rural Municipality",
+    "LOCAL_GOV_NP": "गढी गाउँपालिका"
+  },
+  {
+    "P_ID": "126",
+    "P_CODE": "11309",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Inaruwa Urban Municipality",
+    "LOCAL_GOV_NP": "इनरुवा नगरपालिका"
+  },
+  {
+    "P_ID": "127",
+    "P_CODE": "11310",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Harinagar Rural Municipality",
+    "LOCAL_GOV_NP": "हरिनगर गाउँपालिका"
+  },
+  {
+    "P_ID": "128",
+    "P_CODE": "11311",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Dewangunj Rural Municipality",
+    "LOCAL_GOV_NP": "देवानगन्ज गाउँपालिका"
+  },
+  {
+    "P_ID": "129",
+    "P_CODE": "11312",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Sunsari",
+    "LOCAL_GOV_EN": "Barju Rural Municipality",
+    "LOCAL_GOV_NP": "बर्जु गाउँपालिका"
+  },
+  {
+    "P_ID": "130",
+    "P_CODE": "11401",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Belaka Urban Municipality",
+    "LOCAL_GOV_NP": "बेलका नगरपालिका"
+  },
+  {
+    "P_ID": "131",
+    "P_CODE": "11402",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Chaudandigadhi Urban Municipality",
+    "LOCAL_GOV_NP": "चौदण्डीगढी नगरपालिका"
+  },
+  {
+    "P_ID": "132",
+    "P_CODE": "11403",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Triyuga Urban Municipality",
+    "LOCAL_GOV_NP": "त्रियुगा नगरपालिका"
+  },
+  {
+    "P_ID": "133",
+    "P_CODE": "11404",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Rautamai Rural Municipality",
+    "LOCAL_GOV_NP": "रौतामाई गाउँपालिका"
+  },
+  {
+    "P_ID": "134",
+    "P_CODE": "11405",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Limchungbung Rural Municipality",
+    "LOCAL_GOV_NP": " लिम्चुङबुङ  गाउँपालिका"
+  },
+  {
+    "P_ID": "135",
+    "P_CODE": "11406",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Tapli Rural Municipality",
+    "LOCAL_GOV_NP": "ताप्ली गाउँपालिका"
+  },
+  {
+    "P_ID": "136",
+    "P_CODE": "11407",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Katari Urban Municipality",
+    "LOCAL_GOV_NP": "कटारी नगरपालिका"
+  },
+  {
+    "P_ID": "137",
+    "P_CODE": "11408",
+    "PROVIENCE": "Koshi",
+    "DISTRICT": "Udayapur",
+    "LOCAL_GOV_EN": "Udayapurgadhi Rural Municipality",
+    "LOCAL_GOV_NP": "उदयपुरगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "138",
+    "P_CODE": "20101",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Saptakoshi Urban Municipality",
+    "LOCAL_GOV_NP": "सप्तकोशी नगरपालिका"
+  },
+  {
+    "P_ID": "139",
+    "P_CODE": "20102",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Kanchanrup Urban Municipality",
+    "LOCAL_GOV_NP": "कन्चनरुप नगरपालिका"
+  },
+  {
+    "P_ID": "140",
+    "P_CODE": "20103",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Agnisair Krishna Sabaran Rural Municipality",
+    "LOCAL_GOV_NP": "अग्निसाइर कृष्ण सवरन गाउँपालिका"
+  },
+  {
+    "P_ID": "141",
+    "P_CODE": "20104",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Rupani Rural Municipality",
+    "LOCAL_GOV_NP": "रुपनी गाउँपालिका"
+  },
+  {
+    "P_ID": "142",
+    "P_CODE": "20105",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Shambhunath Urban Municipality",
+    "LOCAL_GOV_NP": "शम्भुनाथ नगरपालिका"
+  },
+  {
+    "P_ID": "143",
+    "P_CODE": "20106",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Khadak Urban Municipality",
+    "LOCAL_GOV_NP": "खडक नगरपालिका"
+  },
+  {
+    "P_ID": "144",
+    "P_CODE": "20107",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Surunga Urban Municipality",
+    "LOCAL_GOV_NP": "सुरुङ्गा नगरपालिका"
+  },
+  {
+    "P_ID": "145",
+    "P_CODE": "20108",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Balan-Bihul Rural Municipality",
+    "LOCAL_GOV_NP": "बलान बिहुल गाउँपालिका"
+  },
+  {
+    "P_ID": "146",
+    "P_CODE": "20109",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Bode Barsain Urban Municipality",
+    "LOCAL_GOV_NP": "बोदेबरसाईन नगरपालिका"
+  },
+  {
+    "P_ID": "147",
+    "P_CODE": "20110",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Dakneshwori Urban Municipality",
+    "LOCAL_GOV_NP": "डाक्नेश्वरी नगरपालिका"
+  },
+  {
+    "P_ID": "148",
+    "P_CODE": "20111",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Rajgadh Rural Municipality",
+    "LOCAL_GOV_NP": "राजगढ गाउँपालिका"
+  },
+  {
+    "P_ID": "149",
+    "P_CODE": "20112",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Bishnupur Rural Municipality",
+    "LOCAL_GOV_NP": "बिष्णुपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "150",
+    "P_CODE": "20113",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Rajbiraj Urban Municipality",
+    "LOCAL_GOV_NP": "राजविराज नगरपालिका"
+  },
+  {
+    "P_ID": "151",
+    "P_CODE": "20114",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Mahadewa Rural Municipality",
+    "LOCAL_GOV_NP": "महादेवा गाउँपालिका"
+  },
+  {
+    "P_ID": "152",
+    "P_CODE": "20115",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Tirahut Rural Municipality",
+    "LOCAL_GOV_NP": "तिरहुत गाउँपालिका"
+  },
+  {
+    "P_ID": "153",
+    "P_CODE": "20116",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Hanumannagar Kankalini Urban Municipality",
+    "LOCAL_GOV_NP": "हनुमाननगर कङ्कालिनी नगरपालिका"
+  },
+  {
+    "P_ID": "154",
+    "P_CODE": "20117",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Tilathi Koiladi Rural Municipality",
+    "LOCAL_GOV_NP": "तिलाठी कोईलाडी गाउँपालिका"
+  },
+  {
+    "P_ID": "155",
+    "P_CODE": "20118",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Saptari",
+    "LOCAL_GOV_EN": "Chhinnamasta Rural Municipality",
+    "LOCAL_GOV_NP": "छिन्नमस्ता गाउँपालिका"
+  },
+  {
+    "P_ID": "156",
+    "P_CODE": "20201",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Lahan Urban Municipality",
+    "LOCAL_GOV_NP": "लहान नगरपालिका"
+  },
+  {
+    "P_ID": "157",
+    "P_CODE": "20202",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Dhangadhimai Urban Municipality",
+    "LOCAL_GOV_NP": "धनगढीमाई नगरपालिका"
+  },
+  {
+    "P_ID": "158",
+    "P_CODE": "20203",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Golbazar Urban Municipality",
+    "LOCAL_GOV_NP": "गोलबजार नगरपालिका"
+  },
+  {
+    "P_ID": "159",
+    "P_CODE": "20204",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Mirchaiya Urban Municipality",
+    "LOCAL_GOV_NP": "मिर्चेया नगरपालिका"
+  },
+  {
+    "P_ID": "160",
+    "P_CODE": "20205",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Karjanha Urban Municipality",
+    "LOCAL_GOV_NP": "कर्जन्हा नगरपालिका"
+  },
+  {
+    "P_ID": "161",
+    "P_CODE": "20206",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Kalyanpur Urban Municipality",
+    "LOCAL_GOV_NP": "कल्याणपुर नगरपालिका"
+  },
+  {
+    "P_ID": "162",
+    "P_CODE": "20207",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Naraha Rural Municipality",
+    "LOCAL_GOV_NP": "नरहा गाउँपालिका"
+  },
+  {
+    "P_ID": "163",
+    "P_CODE": "20208",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Bishnupur Rural Municipality",
+    "LOCAL_GOV_NP": "बिष्णुपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "164",
+    "P_CODE": "20209",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Arnama Rural Municipality",
+    "LOCAL_GOV_NP": "अर्नमा गाउँपालिका"
+  },
+  {
+    "P_ID": "165",
+    "P_CODE": "20210",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Sukhipur Urban Municipality",
+    "LOCAL_GOV_NP": "सुखीपुर नगरपालिका"
+  },
+  {
+    "P_ID": "166",
+    "P_CODE": "20211",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Laxmipur Patari Rural Municipality",
+    "LOCAL_GOV_NP": "लक्ष्मीपुर पतारी गाउँपालिका"
+  },
+  {
+    "P_ID": "167",
+    "P_CODE": "20212",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Sakhuwa Nankarkatti Rural Municipality",
+    "LOCAL_GOV_NP": "सखुवानान्कारकट्टी गाउँपालिका"
+  },
+  {
+    "P_ID": "168",
+    "P_CODE": "20213",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Bhagawanpur Rural Municipality",
+    "LOCAL_GOV_NP": "भगवानपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "169",
+    "P_CODE": "20214",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Nawarajpur Rural Municipality",
+    "LOCAL_GOV_NP": "नवराजपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "170",
+    "P_CODE": "20215",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Bariyarpatti Rural Municipality",
+    "LOCAL_GOV_NP": "बरियारपट्टी गाउँपालिका"
+  },
+  {
+    "P_ID": "171",
+    "P_CODE": "20216",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Aurahi Rural Municipality",
+    "LOCAL_GOV_NP": "औरही गाउँपालिका"
+  },
+  {
+    "P_ID": "172",
+    "P_CODE": "20217",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Siraha",
+    "LOCAL_GOV_EN": "Siraha Urban Municipality",
+    "LOCAL_GOV_NP": "सिराहा नगरपालिका"
+  },
+  {
+    "P_ID": "173",
+    "P_CODE": "20301",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Ganeshman Charnath Urban Municipality",
+    "LOCAL_GOV_NP": "गणेशमान चारनाथ नगरपालिका"
+  },
+  {
+    "P_ID": "174",
+    "P_CODE": "20302",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Dhanushadham Urban Municipality",
+    "LOCAL_GOV_NP": "धनुषाधाम नगरपालिका"
+  },
+  {
+    "P_ID": "175",
+    "P_CODE": "20303",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Mithila Urban Municipality",
+    "LOCAL_GOV_NP": "मिथिला नगरपालिका"
+  },
+  {
+    "P_ID": "176",
+    "P_CODE": "20304",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Bateshwor Rural Municipality",
+    "LOCAL_GOV_NP": "बटेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "177",
+    "P_CODE": "20305",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Chhireshwornath Urban Municipality",
+    "LOCAL_GOV_NP": "क्षिरेश्वरनाथ नगरपालिका"
+  },
+  {
+    "P_ID": "178",
+    "P_CODE": "20306",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Laxminiya Rural Municipality",
+    "LOCAL_GOV_NP": "लक्ष्मीनिया गाउँपालिका"
+  },
+  {
+    "P_ID": "179",
+    "P_CODE": "20307",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Mithila Bihari Urban Municipality",
+    "LOCAL_GOV_NP": "मिथिला बिहारी नगरपालिका"
+  },
+  {
+    "P_ID": "180",
+    "P_CODE": "20308",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Hansapur Urban Municipality",
+    "LOCAL_GOV_NP": "हंसपुर नगरपालिका"
+  },
+  {
+    "P_ID": "181",
+    "P_CODE": "20309",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Sabaila Urban Municipality",
+    "LOCAL_GOV_NP": "सबैला नगरपालिका"
+  },
+  {
+    "P_ID": "182",
+    "P_CODE": "20310",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Shahidnagar Urban Municipality",
+    "LOCAL_GOV_NP": "शहीदनगर नगरपालिका"
+  },
+  {
+    "P_ID": "183",
+    "P_CODE": "20311",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Kamala Urban Municipality",
+    "LOCAL_GOV_NP": "कमला नगरपालिका"
+  },
+  {
+    "P_ID": "184",
+    "P_CODE": "20312",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Janak Nandini Rural Municipality",
+    "LOCAL_GOV_NP": "जनक नन्दिनी गाउँपालिका"
+  },
+  {
+    "P_ID": "185",
+    "P_CODE": "20313",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Bideha Urban Municipality",
+    "LOCAL_GOV_NP": "बिदेह नगरपालिका"
+  },
+  {
+    "P_ID": "186",
+    "P_CODE": "20314",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Aurahi Rural Municipality",
+    "LOCAL_GOV_NP": "औरही गाउँपालिका"
+  },
+  {
+    "P_ID": "187",
+    "P_CODE": "20315",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Janakpurdham Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "जनकपुरधाम उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "188",
+    "P_CODE": "20316",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Dhanauji Rural Municipality",
+    "LOCAL_GOV_NP": "धनौजी गाउँपालिका"
+  },
+  {
+    "P_ID": "189",
+    "P_CODE": "20317",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Nagarain Urban Municipality",
+    "LOCAL_GOV_NP": "नगराइन नगरपालिका"
+  },
+  {
+    "P_ID": "190",
+    "P_CODE": "20318",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Dhanusa",
+    "LOCAL_GOV_EN": "Mukhiyapatti Musaharmiya Rural Municipality",
+    "LOCAL_GOV_NP": "मुखियापट्टी मुसहरमिया गाउँपालिका"
+  },
+  {
+    "P_ID": "191",
+    "P_CODE": "20401",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Bardibas Urban Municipality",
+    "LOCAL_GOV_NP": "बर्दिबास नगरपालिका"
+  },
+  {
+    "P_ID": "192",
+    "P_CODE": "20402",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Gaushala Urban Municipality",
+    "LOCAL_GOV_NP": "गौशाला नगरपालिका"
+  },
+  {
+    "P_ID": "193",
+    "P_CODE": "20403",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Sonama Rural Municipality",
+    "LOCAL_GOV_NP": "सोनमा गाउँपालिका"
+  },
+  {
+    "P_ID": "194",
+    "P_CODE": "20404",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Aurahi Urban Municipality",
+    "LOCAL_GOV_NP": "औरही नगरपालिका"
+  },
+  {
+    "P_ID": "195",
+    "P_CODE": "20405",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Bhangaha Urban Municipality",
+    "LOCAL_GOV_NP": "भँगाहा नगरपालिका"
+  },
+  {
+    "P_ID": "196",
+    "P_CODE": "20406",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Loharpatti Urban Municipality",
+    "LOCAL_GOV_NP": "लोहरपट्टी नगरपालिका"
+  },
+  {
+    "P_ID": "197",
+    "P_CODE": "20407",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Balawa Urban Municipality",
+    "LOCAL_GOV_NP": "बलवा नगरपालिका"
+  },
+  {
+    "P_ID": "198",
+    "P_CODE": "20408",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Ram Gopalpur Urban Municipality",
+    "LOCAL_GOV_NP": "राम गोपालपुर नगरपालिका"
+  },
+  {
+    "P_ID": "199",
+    "P_CODE": "20409",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Samsi Rural Municipality",
+    "LOCAL_GOV_NP": "साम्सी गाउँपालिका"
+  },
+  {
+    "P_ID": "200",
+    "P_CODE": "20410",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Manara Shisawa Urban Municipality",
+    "LOCAL_GOV_NP": "मनरा शिसवा नगरपालिका"
+  },
+  {
+    "P_ID": "201",
+    "P_CODE": "20411",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Ekadara Rural Municipality",
+    "LOCAL_GOV_NP": "एकडारा गाउँपालिका"
+  },
+  {
+    "P_ID": "202",
+    "P_CODE": "20412",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Mahottari Rural Municipality",
+    "LOCAL_GOV_NP": "महोत्तरी गाउँपालिका"
+  },
+  {
+    "P_ID": "203",
+    "P_CODE": "20413",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Pipara Rural Municipality",
+    "LOCAL_GOV_NP": "पिपरा गाउँपालिका"
+  },
+  {
+    "P_ID": "204",
+    "P_CODE": "20414",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Matihani Urban Municipality",
+    "LOCAL_GOV_NP": "मटिहानी नगरपालिका"
+  },
+  {
+    "P_ID": "205",
+    "P_CODE": "20415",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Mahottari",
+    "LOCAL_GOV_EN": "Jaleshwor Urban Municipality",
+    "LOCAL_GOV_NP": "जलेश्वर नगरपालिका"
+  },
+  {
+    "P_ID": "206",
+    "P_CODE": "20501",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Lalbandi Urban Municipality",
+    "LOCAL_GOV_NP": "लालबन्दी नगरपालिका"
+  },
+  {
+    "P_ID": "207",
+    "P_CODE": "20502",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Hariwan Urban Municipality",
+    "LOCAL_GOV_NP": "हरिवन नगरपालिका"
+  },
+  {
+    "P_ID": "208",
+    "P_CODE": "20503",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Bagmati Urban Municipality",
+    "LOCAL_GOV_NP": "बागमती नगरपालिका"
+  },
+  {
+    "P_ID": "209",
+    "P_CODE": "20504",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Barahathawa Urban Municipality",
+    "LOCAL_GOV_NP": "बरहथवा नगरपालिका"
+  },
+  {
+    "P_ID": "210",
+    "P_CODE": "20505",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Haripur Urban Municipality",
+    "LOCAL_GOV_NP": "हरिपुर नगरपालिका"
+  },
+  {
+    "P_ID": "211",
+    "P_CODE": "20506",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Ishworpur Urban Municipality",
+    "LOCAL_GOV_NP": "ईश्वरपुर नगरपालिका"
+  },
+  {
+    "P_ID": "212",
+    "P_CODE": "20507",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Haripurwa Urban Municipality",
+    "LOCAL_GOV_NP": "हरिपुर्वा नगरपालिका"
+  },
+  {
+    "P_ID": "213",
+    "P_CODE": "20508",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Parsa Rural Municipality",
+    "LOCAL_GOV_NP": "पर्सा गाउँपालिका"
+  },
+  {
+    "P_ID": "214",
+    "P_CODE": "20509",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Brahmapuri Rural Municipality",
+    "LOCAL_GOV_NP": "ब्रह्मपुरी गाउँपालिका"
+  },
+  {
+    "P_ID": "215",
+    "P_CODE": "20510",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Chandranagar Rural Municipality",
+    "LOCAL_GOV_NP": "चन्द्रनगर गाउँपालिका"
+  },
+  {
+    "P_ID": "216",
+    "P_CODE": "20511",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Kabilashi Urban Municipality",
+    "LOCAL_GOV_NP": "कविलासी नगरपालिका"
+  },
+  {
+    "P_ID": "217",
+    "P_CODE": "20512",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Chakraghatta Rural Municipality",
+    "LOCAL_GOV_NP": "चक्रघट्टा गाउँपालिका"
+  },
+  {
+    "P_ID": "218",
+    "P_CODE": "20513",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Basbariya Rural Municipality",
+    "LOCAL_GOV_NP": "बसबरिया गाउँपालिका"
+  },
+  {
+    "P_ID": "219",
+    "P_CODE": "20514",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Dhanakaul Rural Municipality",
+    "LOCAL_GOV_NP": "धनकौल गाउँपालिका"
+  },
+  {
+    "P_ID": "220",
+    "P_CODE": "20515",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Ramnagar Rural Municipality",
+    "LOCAL_GOV_NP": "रामनगर गाउँपालिका"
+  },
+  {
+    "P_ID": "221",
+    "P_CODE": "20516",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Balara Urban Municipality",
+    "LOCAL_GOV_NP": "बलरा नगरपालिका"
+  },
+  {
+    "P_ID": "222",
+    "P_CODE": "20517",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Godaita Urban Municipality",
+    "LOCAL_GOV_NP": "गोडैटा नगरपालिका"
+  },
+  {
+    "P_ID": "223",
+    "P_CODE": "20518",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Bishnu Rural Municipality",
+    "LOCAL_GOV_NP": "विष्णु गाउँपालिका"
+  },
+  {
+    "P_ID": "224",
+    "P_CODE": "20519",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Kaudena Rural Municipality",
+    "LOCAL_GOV_NP": "कौडेना गाउँपालिका"
+  },
+  {
+    "P_ID": "225",
+    "P_CODE": "20520",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Sarlahi",
+    "LOCAL_GOV_EN": "Malangawa Urban Municipality",
+    "LOCAL_GOV_NP": "मलंगवा नगरपालिका"
+  },
+  {
+    "P_ID": "226",
+    "P_CODE": "20601",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Chandrapur Urban Municipality",
+    "LOCAL_GOV_NP": "चन्द्रपुर नगरपालिका"
+  },
+  {
+    "P_ID": "227",
+    "P_CODE": "20602",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Gujara Urban Municipality",
+    "LOCAL_GOV_NP": "गुजरा नगरपालिका"
+  },
+  {
+    "P_ID": "228",
+    "P_CODE": "20603",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Phatuwa Bijayapur Urban Municipality",
+    "LOCAL_GOV_NP": "फतुवा बिजयपुर नगरपालिका"
+  },
+  {
+    "P_ID": "229",
+    "P_CODE": "20604",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Katahariya Urban Municipality",
+    "LOCAL_GOV_NP": "कटहरिया नगरपालिका"
+  },
+  {
+    "P_ID": "230",
+    "P_CODE": "20605",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Brindaban Urban Municipality",
+    "LOCAL_GOV_NP": "बृन्दावन नगरपालिका"
+  },
+  {
+    "P_ID": "231",
+    "P_CODE": "20606",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Gadhimai Urban Municipality",
+    "LOCAL_GOV_NP": "गढीमाई नगरपालिका"
+  },
+  {
+    "P_ID": "232",
+    "P_CODE": "20607",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Madhav Narayan Urban Municipality",
+    "LOCAL_GOV_NP": "माधव नारायण नगरपालिका"
+  },
+  {
+    "P_ID": "233",
+    "P_CODE": "20608",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Garuda Urban Municipality",
+    "LOCAL_GOV_NP": "गरुडा नगरपालिका"
+  },
+  {
+    "P_ID": "234",
+    "P_CODE": "20609",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Dewahi Gonahi Urban Municipality",
+    "LOCAL_GOV_NP": "देवाही गोनाही नगरपालिका"
+  },
+  {
+    "P_ID": "235",
+    "P_CODE": "20610",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Maulapur Urban Municipality",
+    "LOCAL_GOV_NP": "मौलापुर नगरपालिका"
+  },
+  {
+    "P_ID": "236",
+    "P_CODE": "20611",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Boudhimai Urban Municipality",
+    "LOCAL_GOV_NP": "बौधीमाई नगरपालिका"
+  },
+  {
+    "P_ID": "237",
+    "P_CODE": "20612",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Paroha Urban Municipality",
+    "LOCAL_GOV_NP": "परोहा नगरपालिका"
+  },
+  {
+    "P_ID": "238",
+    "P_CODE": "20613",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Rajpur Urban Municipality",
+    "LOCAL_GOV_NP": "राजपुर नगरपालिका"
+  },
+  {
+    "P_ID": "239",
+    "P_CODE": "20614",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Yamunamai Rural Municipality",
+    "LOCAL_GOV_NP": "यमुनामाई गाउँपालिका"
+  },
+  {
+    "P_ID": "240",
+    "P_CODE": "20615",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Durga Bhagawati Rural Municipality",
+    "LOCAL_GOV_NP": "दुर्गा भगवती गाउँपालिका"
+  },
+  {
+    "P_ID": "241",
+    "P_CODE": "20616",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Rajdevi Urban Municipality",
+    "LOCAL_GOV_NP": "राजदेवी नगरपालिका"
+  },
+  {
+    "P_ID": "242",
+    "P_CODE": "20617",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Gaur Urban Municipality",
+    "LOCAL_GOV_NP": "गौर नगरपालिका"
+  },
+  {
+    "P_ID": "243",
+    "P_CODE": "20618",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Rautahat",
+    "LOCAL_GOV_EN": "Ishanath Urban Municipality",
+    "LOCAL_GOV_NP": "ईशनाथ नगरपालिका"
+  },
+  {
+    "P_ID": "244",
+    "P_CODE": "20701",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Nijagadh Urban Municipality",
+    "LOCAL_GOV_NP": "निजगढ नगरपालिका"
+  },
+  {
+    "P_ID": "245",
+    "P_CODE": "20702",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Kolhabi Urban Municipality",
+    "LOCAL_GOV_NP": "कोल्हवी नगरपालिका"
+  },
+  {
+    "P_ID": "246",
+    "P_CODE": "20703",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Jitpur Simara Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "जीतपुर सिमरा उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "247",
+    "P_CODE": "20704",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Parawanipur Rural Municipality",
+    "LOCAL_GOV_NP": "परवानीपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "248",
+    "P_CODE": "20705",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Prasauni Rural Municipality",
+    "LOCAL_GOV_NP": "प्रसौनी गाउँपालिका"
+  },
+  {
+    "P_ID": "249",
+    "P_CODE": "20706",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Bishrampur Rural Municipality",
+    "LOCAL_GOV_NP": "विश्रामपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "250",
+    "P_CODE": "20707",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Pheta Rural Municipality",
+    "LOCAL_GOV_NP": "फेटा गाउँपालिका"
+  },
+  {
+    "P_ID": "251",
+    "P_CODE": "20708",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Kalaiya Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "कलैया उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "252",
+    "P_CODE": "20709",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Karaiyamai Rural Municipality",
+    "LOCAL_GOV_NP": "करैयामाई गाउँपालिका"
+  },
+  {
+    "P_ID": "253",
+    "P_CODE": "20710",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Baragadhi Rural Municipality",
+    "LOCAL_GOV_NP": "बारागढी गाउँपालिका"
+  },
+  {
+    "P_ID": "254",
+    "P_CODE": "20711",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Aadarsha Kotwal Rural Municipality",
+    "LOCAL_GOV_NP": "आदर्श कोटवाल गाउँपालिका"
+  },
+  {
+    "P_ID": "255",
+    "P_CODE": "20712",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Simroungadh Urban Municipality",
+    "LOCAL_GOV_NP": "सिम्रौनगढ नगरपालिका"
+  },
+  {
+    "P_ID": "256",
+    "P_CODE": "20713",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Pacharauta Urban Municipality",
+    "LOCAL_GOV_NP": "पचरौता नगरपालिका"
+  },
+  {
+    "P_ID": "257",
+    "P_CODE": "20714",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Mahagadhimai Urban Municipality",
+    "LOCAL_GOV_NP": "महागढीमाई नगरपालिका"
+  },
+  {
+    "P_ID": "258",
+    "P_CODE": "20715",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Devtal Rural Municipality",
+    "LOCAL_GOV_NP": "देवताल गाउँपालिका"
+  },
+  {
+    "P_ID": "259",
+    "P_CODE": "20716",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Bara",
+    "LOCAL_GOV_EN": "Subarna Rural Municipality",
+    "LOCAL_GOV_NP": "सुवर्ण गाउँपालिका"
+  },
+  {
+    "P_ID": "260",
+    "P_CODE": "20801",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Thori Rural Municipality",
+    "LOCAL_GOV_NP": "ठोरी (सुवर्णपुर) गाउँपालिका"
+  },
+  {
+    "P_ID": "261",
+    "P_CODE": "20802",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Jirabhawani Rural Municipality",
+    "LOCAL_GOV_NP": "जिराभवानी गाउँपालिका"
+  },
+  {
+    "P_ID": "262",
+    "P_CODE": "20803",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Jagarnathpur Rural Municipality",
+    "LOCAL_GOV_NP": "जगरनाथपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "263",
+    "P_CODE": "20804",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Paterwa Sugauli Rural Municipality",
+    "LOCAL_GOV_NP": "पटेर्वा सुगौली गाउँपालिका"
+  },
+  {
+    "P_ID": "264",
+    "P_CODE": "20805",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Sakhuwa Prasauni Rural Municipality",
+    "LOCAL_GOV_NP": "सखुवा प्रसौनी गाउँपालिका"
+  },
+  {
+    "P_ID": "265",
+    "P_CODE": "20806",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Parsagadhi Urban Municipality",
+    "LOCAL_GOV_NP": "पर्सागढी नगरपालिका"
+  },
+  {
+    "P_ID": "266",
+    "P_CODE": "20807",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Birgunj Metropolitian City",
+    "LOCAL_GOV_NP": "बिरगन्ज महानगरपालिका"
+  },
+  {
+    "P_ID": "267",
+    "P_CODE": "20808",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Bahudarmai Urban Municipality",
+    "LOCAL_GOV_NP": "बहुदरमाई नगरपालिका"
+  },
+  {
+    "P_ID": "268",
+    "P_CODE": "20809",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Pokhariya Urban Municipality",
+    "LOCAL_GOV_NP": "पोखरिया नगरपालिका"
+  },
+  {
+    "P_ID": "269",
+    "P_CODE": "20810",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Kalikamai Rural Municipality",
+    "LOCAL_GOV_NP": "कालिकामाई गाउँपालिका"
+  },
+  {
+    "P_ID": "270",
+    "P_CODE": "20811",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Dhobini Rural Municipality",
+    "LOCAL_GOV_NP": "धोबीनी गाउँपालिका"
+  },
+  {
+    "P_ID": "271",
+    "P_CODE": "20812",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Chhipaharmai Rural Municipality",
+    "LOCAL_GOV_NP": "छिपहरमाई गाउँपालिका"
+  },
+  {
+    "P_ID": "272",
+    "P_CODE": "20813",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Pakaha Mainpur Rural Municipality",
+    "LOCAL_GOV_NP": "पकाहा मैनपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "273",
+    "P_CODE": "20814",
+    "PROVIENCE": "Madhesh",
+    "DISTRICT": "Parsa",
+    "LOCAL_GOV_EN": "Bindabasini Rural Municipality",
+    "LOCAL_GOV_NP": "बिन्दवासिनी गाउँपालिका"
+  },
+  {
+    "P_ID": "274",
+    "P_CODE": "30101",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Gaurishankar Rural Municipality",
+    "LOCAL_GOV_NP": "गौरिशंकर गाउँपालिका"
+  },
+  {
+    "P_ID": "275",
+    "P_CODE": "30102",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Bigu Rural Municipality",
+    "LOCAL_GOV_NP": "बिगु गाउँपालिका"
+  },
+  {
+    "P_ID": "276",
+    "P_CODE": "30103",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Kalinchowk Rural Municipality",
+    "LOCAL_GOV_NP": "कालिन्चोक गाउँपालिका"
+  },
+  {
+    "P_ID": "277",
+    "P_CODE": "30104",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Baiteshwor Rural Municipality",
+    "LOCAL_GOV_NP": "बैतेश्वर  गाउँपालिका"
+  },
+  {
+    "P_ID": "278",
+    "P_CODE": "30105",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Jiri Urban Municipality",
+    "LOCAL_GOV_NP": "जिरी नगरपालिका"
+  },
+  {
+    "P_ID": "279",
+    "P_CODE": "30106",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Tamakoshi Rural Municipality",
+    "LOCAL_GOV_NP": "तामाकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "280",
+    "P_CODE": "30107",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Melung Rural Municipality",
+    "LOCAL_GOV_NP": "मेलुङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "281",
+    "P_CODE": "30108",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Shailung Rural Municipality",
+    "LOCAL_GOV_NP": "शैलुड० गाउँपालिका"
+  },
+  {
+    "P_ID": "282",
+    "P_CODE": "30109",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dolakha",
+    "LOCAL_GOV_EN": "Bhimeshwor Urban Municipality",
+    "LOCAL_GOV_NP": "भिमेश्वर नगरपालिका"
+  },
+  {
+    "P_ID": "283",
+    "P_CODE": "30201",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Bhotekoshi Rural Municipality",
+    "LOCAL_GOV_NP": "भोटेकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "284",
+    "P_CODE": "30202",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Jugal Rural Municipality",
+    "LOCAL_GOV_NP": "जुगल गाउँपालिका"
+  },
+  {
+    "P_ID": "285",
+    "P_CODE": "30203",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Panchpokhari Thangpal Rural Municipality",
+    "LOCAL_GOV_NP": "पाँचपोखरी थाड०पाल गाउँपालिका"
+  },
+  {
+    "P_ID": "286",
+    "P_CODE": "30204",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Helambu Rural Municipality",
+    "LOCAL_GOV_NP": "हेलम्बु गाउँपालिका"
+  },
+  {
+    "P_ID": "287",
+    "P_CODE": "30205",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Melanchi Urban Municipality",
+    "LOCAL_GOV_NP": "मेलम्ची नगरपालिका"
+  },
+  {
+    "P_ID": "288",
+    "P_CODE": "30206",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Indrawoti Rural Municipality",
+    "LOCAL_GOV_NP": "ईन्द्रावती गाउँपालिका"
+  },
+  {
+    "P_ID": "289",
+    "P_CODE": "30207",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Choutara Sangachowkgadhi Urban Municipality",
+    "LOCAL_GOV_NP": "चौतारा साँगाचोकगढी नगरपालिका"
+  },
+  {
+    "P_ID": "290",
+    "P_CODE": "30208",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Balephi Rural Municipality",
+    "LOCAL_GOV_NP": "बलेफी गाउँपालिका"
+  },
+  {
+    "P_ID": "291",
+    "P_CODE": "30209",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Bahrabise Urban Municipality",
+    "LOCAL_GOV_NP": "बाह्रबिसे नगरपालिका"
+  },
+  {
+    "P_ID": "292",
+    "P_CODE": "30210",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Tripurasundari Rural Municipality",
+    "LOCAL_GOV_NP": "त्रिपुरासुन्दरी गाउँपालिका"
+  },
+  {
+    "P_ID": "293",
+    "P_CODE": "30211",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Lisankhu Pakhar Rural Municipality",
+    "LOCAL_GOV_NP": "लिसंखु पाखर गाउँपालिका"
+  },
+  {
+    "P_ID": "294",
+    "P_CODE": "30212",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhupalchok",
+    "LOCAL_GOV_EN": "Sunkoshi Rural Municipality",
+    "LOCAL_GOV_NP": "सुनकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "295",
+    "P_CODE": "30301",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Rasuwa",
+    "LOCAL_GOV_EN": "Gosaikunda Rural Municipality",
+    "LOCAL_GOV_NP": "गोसाईकुण्ड गाउँपालिका"
+  },
+  {
+    "P_ID": "296",
+    "P_CODE": "30302",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Rasuwa",
+    "LOCAL_GOV_EN": "Aamachhodingmo Rural Municipality",
+    "LOCAL_GOV_NP": "आमाछोदिङमो गाउँपालिका"
+  },
+  {
+    "P_ID": "297",
+    "P_CODE": "30303",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Rasuwa",
+    "LOCAL_GOV_EN": "Uttargaya Rural Municipality",
+    "LOCAL_GOV_NP": "उत्तरगया गाउँपालिका"
+  },
+  {
+    "P_ID": "298",
+    "P_CODE": "30304",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Rasuwa",
+    "LOCAL_GOV_EN": "Shuva Kalika Rural Municipality",
+    "LOCAL_GOV_NP": "शुभ कालीका गाउँपालिका"
+  },
+  {
+    "P_ID": "299",
+    "P_CODE": "30305",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Rasuwa",
+    "LOCAL_GOV_EN": "Naukunda Rural Municipality",
+    "LOCAL_GOV_NP": "नौकुण्ड गाउँपालिका"
+  },
+  {
+    "P_ID": "300",
+    "P_CODE": "30401",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Rubi Valley Rural Municipality",
+    "LOCAL_GOV_NP": "रुबी भ्याली गाउँपालिका"
+  },
+  {
+    "P_ID": "301",
+    "P_CODE": "30402",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Khaniyabas Rural Municipality",
+    "LOCAL_GOV_NP": "खनियाबास गाउँपालिका"
+  },
+  {
+    "P_ID": "302",
+    "P_CODE": "30403",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Ganga Jamuna Rural Municipality",
+    "LOCAL_GOV_NP": "गंङ्गा जमुना गाउँपालिका"
+  },
+  {
+    "P_ID": "303",
+    "P_CODE": "30404",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Tripurasundari Rural Municipality",
+    "LOCAL_GOV_NP": "त्रिपुरासुन्दरी गाउँपालिका"
+  },
+  {
+    "P_ID": "304",
+    "P_CODE": "30405",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Netrawati Dabjong Rural Municipality",
+    "LOCAL_GOV_NP": "नेत्रावती डबजोङ गाउँपालिका"
+  },
+  {
+    "P_ID": "305",
+    "P_CODE": "30406",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Nilkhantha Urban Municipality",
+    "LOCAL_GOV_NP": "नीलकण्ठ नगरपालिका"
+  },
+  {
+    "P_ID": "306",
+    "P_CODE": "30407",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Jwalamukhi Rural Municipality",
+    "LOCAL_GOV_NP": "ज्वालामुखी गाउँपालिका"
+  },
+  {
+    "P_ID": "307",
+    "P_CODE": "30408",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Siddhalek Rural Municipality",
+    "LOCAL_GOV_NP": "सिद्धलेक गाउँपालिका"
+  },
+  {
+    "P_ID": "308",
+    "P_CODE": "30409",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Benighat Rorang Rural Municipality",
+    "LOCAL_GOV_NP": "बेनीघाट रोराङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "309",
+    "P_CODE": "30410",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Gajuri Rural Municipality",
+    "LOCAL_GOV_NP": "गजुरी गाउँपालिका"
+  },
+  {
+    "P_ID": "310",
+    "P_CODE": "30411",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Galchhi Rural Municipality",
+    "LOCAL_GOV_NP": "गल्छी गाउँपालिका"
+  },
+  {
+    "P_ID": "311",
+    "P_CODE": "30412",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Thakre Rural Municipality",
+    "LOCAL_GOV_NP": "थाक्रे गाउँपालिका"
+  },
+  {
+    "P_ID": "312",
+    "P_CODE": "30413",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Dhading",
+    "LOCAL_GOV_EN": "Dhunibenshi Urban Municipality",
+    "LOCAL_GOV_NP": "धुनीबेंशी नगरपालिका"
+  },
+  {
+    "P_ID": "313",
+    "P_CODE": "30501",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Dupcheshwor Rural Municipality",
+    "LOCAL_GOV_NP": "दुप्चेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "314",
+    "P_CODE": "30502",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Tadi Rural Municipality",
+    "LOCAL_GOV_NP": "तादी गाउँपालिका"
+  },
+  {
+    "P_ID": "315",
+    "P_CODE": "30503",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Suryagadhi Rural Municipality",
+    "LOCAL_GOV_NP": "सुर्यगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "316",
+    "P_CODE": "30504",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Bidur Urban Municipality",
+    "LOCAL_GOV_NP": "बिदुर नगरपालिका"
+  },
+  {
+    "P_ID": "317",
+    "P_CODE": "30505",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Kispang Rural Municipality",
+    "LOCAL_GOV_NP": "किस्पाङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "318",
+    "P_CODE": "30506",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Myagang Rural Municipality",
+    "LOCAL_GOV_NP": "म्यगङ गाउँपालिका"
+  },
+  {
+    "P_ID": "319",
+    "P_CODE": "30507",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Tarakeshwor Rural Municipality",
+    "LOCAL_GOV_NP": "तारकेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "320",
+    "P_CODE": "30508",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Belkotgadhi Urban Municipality",
+    "LOCAL_GOV_NP": "बेलकोटगढी नगरपालिका"
+  },
+  {
+    "P_ID": "321",
+    "P_CODE": "30509",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Likhu Rural Municipality",
+    "LOCAL_GOV_NP": "लिखु गाउँपालिका"
+  },
+  {
+    "P_ID": "322",
+    "P_CODE": "30510",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Panchakanya Rural Municipality",
+    "LOCAL_GOV_NP": "पन्चकन्या गाउँपालिका"
+  },
+  {
+    "P_ID": "323",
+    "P_CODE": "30511",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Shivapuri Rural Municipality",
+    "LOCAL_GOV_NP": "शिवपुरी गाउँपालिका"
+  },
+  {
+    "P_ID": "324",
+    "P_CODE": "30512",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Nuwakot",
+    "LOCAL_GOV_EN": "Kakani Rural Municipality",
+    "LOCAL_GOV_NP": "ककनी गाउँपालिका"
+  },
+  {
+    "P_ID": "325",
+    "P_CODE": "30601",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Shankharapur Urban Municipality",
+    "LOCAL_GOV_NP": "शंङ्खरापुर नगरपालिका"
+  },
+  {
+    "P_ID": "326",
+    "P_CODE": "30602",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Kageshwori Manahara Urban Municipality",
+    "LOCAL_GOV_NP": "कागेश्वरी मनहरा नगरपालिका"
+  },
+  {
+    "P_ID": "327",
+    "P_CODE": "30603",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Gokarneshwor Urban Municipality",
+    "LOCAL_GOV_NP": "गोकर्णेश्वर नगरपालिका"
+  },
+  {
+    "P_ID": "328",
+    "P_CODE": "30604",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Budhanilkhantha Urban Municipality",
+    "LOCAL_GOV_NP": "बुढानिलकण्ठ नगरपालिका"
+  },
+  {
+    "P_ID": "329",
+    "P_CODE": "30605",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Tokha Urban Municipality",
+    "LOCAL_GOV_NP": "टोखा नगरपालिका"
+  },
+  {
+    "P_ID": "330",
+    "P_CODE": "30606",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Tarakeshwor Urban Municipality",
+    "LOCAL_GOV_NP": "तारकेश्वर नगरपालिका"
+  },
+  {
+    "P_ID": "331",
+    "P_CODE": "30607",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Nagarjun Urban Municipality",
+    "LOCAL_GOV_NP": "नागार्जुन नगरपालिका"
+  },
+  {
+    "P_ID": "332",
+    "P_CODE": "30608",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Kathmandu Metropolitian City",
+    "LOCAL_GOV_NP": "काठमाण्डौ महानगरपालिका"
+  },
+  {
+    "P_ID": "333",
+    "P_CODE": "30609",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Kirtipur Urban Municipality",
+    "LOCAL_GOV_NP": "किर्तिपुर नगरपालिका"
+  },
+  {
+    "P_ID": "334",
+    "P_CODE": "30610",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Chandragiri Urban Municipality",
+    "LOCAL_GOV_NP": "चन्द्रागिरी नगरपालिका"
+  },
+  {
+    "P_ID": "335",
+    "P_CODE": "30611",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kathmandu",
+    "LOCAL_GOV_EN": "Dakshinkali Urban Municipality",
+    "LOCAL_GOV_NP": "दक्षिणकाली नगरपालिका"
+  },
+  {
+    "P_ID": "336",
+    "P_CODE": "30701",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Bhaktapur",
+    "LOCAL_GOV_EN": "Changunarayan Urban Municipality",
+    "LOCAL_GOV_NP": "चाँगुनारायण नगरपालिका"
+  },
+  {
+    "P_ID": "337",
+    "P_CODE": "30702",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Bhaktapur",
+    "LOCAL_GOV_EN": "Bhaktapur Urban Municipality",
+    "LOCAL_GOV_NP": "भक्तपुर नगरपालिका"
+  },
+  {
+    "P_ID": "338",
+    "P_CODE": "30703",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Bhaktapur",
+    "LOCAL_GOV_EN": "Madhyapur Thimi Urban Municipality",
+    "LOCAL_GOV_NP": "मध्यपुर थिमी नगरपालिका"
+  },
+  {
+    "P_ID": "339",
+    "P_CODE": "30704",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Bhaktapur",
+    "LOCAL_GOV_EN": "Suryabinayak Urban Municipality",
+    "LOCAL_GOV_NP": "सूर्यविनायक नगरपालिका"
+  },
+  {
+    "P_ID": "340",
+    "P_CODE": "30801",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Mahalaxmi Urban Municipality",
+    "LOCAL_GOV_NP": "महालक्ष्मी नगरपालिका"
+  },
+  {
+    "P_ID": "341",
+    "P_CODE": "30802",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Lalitpur Metropolitian City",
+    "LOCAL_GOV_NP": "ललितपुर महानगरपालिका"
+  },
+  {
+    "P_ID": "342",
+    "P_CODE": "30803",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Godawari Urban Municipality",
+    "LOCAL_GOV_NP": "गोदावरी नगरपालिका"
+  },
+  {
+    "P_ID": "343",
+    "P_CODE": "30804",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Konjyosom Rural Municipality",
+    "LOCAL_GOV_NP": "कोन्ज्योसोम गाउँपालिका"
+  },
+  {
+    "P_ID": "344",
+    "P_CODE": "30805",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Mahankal Rural Municipality",
+    "LOCAL_GOV_NP": "महाङ्काल गाउँपालिका"
+  },
+  {
+    "P_ID": "345",
+    "P_CODE": "30806",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Lalitpur",
+    "LOCAL_GOV_EN": "Bagmati Rural Municipality",
+    "LOCAL_GOV_NP": "बाग्मती गाउँपालिका"
+  },
+  {
+    "P_ID": "346",
+    "P_CODE": "30901",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Chauri Deurali Rural Municipality",
+    "LOCAL_GOV_NP": "चौरीदेउराली गाउँपालिका"
+  },
+  {
+    "P_ID": "347",
+    "P_CODE": "30902",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Bhumlu Rural Municipality",
+    "LOCAL_GOV_NP": "भुम्लु गाउँपालिका"
+  },
+  {
+    "P_ID": "348",
+    "P_CODE": "30903",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Mandan Deupur Urban Municipality",
+    "LOCAL_GOV_NP": "मण्डन देउपुर नगरपालिका"
+  },
+  {
+    "P_ID": "349",
+    "P_CODE": "30904",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Banepa Urban Municipality",
+    "LOCAL_GOV_NP": "बनेपा नगरपालिका"
+  },
+  {
+    "P_ID": "350",
+    "P_CODE": "30905",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Dhulikhel Urban Municipality",
+    "LOCAL_GOV_NP": "धुलिखेल नगरपालिका"
+  },
+  {
+    "P_ID": "351",
+    "P_CODE": "30906",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Panchkhal Urban Municipality",
+    "LOCAL_GOV_NP": "पाँचखाल नगरपालिका"
+  },
+  {
+    "P_ID": "352",
+    "P_CODE": "30907",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Temal Rural Municipality",
+    "LOCAL_GOV_NP": "तेमाल गाउँपालिका"
+  },
+  {
+    "P_ID": "353",
+    "P_CODE": "30908",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Namobuddha Urban Municipality",
+    "LOCAL_GOV_NP": "नमोबुद्ध नगरपालिका"
+  },
+  {
+    "P_ID": "354",
+    "P_CODE": "30909",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Panauti Urban Municipality",
+    "LOCAL_GOV_NP": "पनौती नगरपालिका"
+  },
+  {
+    "P_ID": "355",
+    "P_CODE": "30910",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Bethanchowk Rural Municipality",
+    "LOCAL_GOV_NP": "बेथानचोक गाउँपालिका"
+  },
+  {
+    "P_ID": "356",
+    "P_CODE": "30911",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Roshi Rural Municipality",
+    "LOCAL_GOV_NP": "रोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "357",
+    "P_CODE": "30912",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Mahabharat Rural Municipality",
+    "LOCAL_GOV_NP": "महाभारत गाउँपालिका"
+  },
+  {
+    "P_ID": "358",
+    "P_CODE": "30913",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Kavrepalanchok",
+    "LOCAL_GOV_EN": "Khanikhola Rural Municipality",
+    "LOCAL_GOV_NP": "खानीखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "359",
+    "P_CODE": "31001",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Umakunda Rural Municipality",
+    "LOCAL_GOV_NP": "उमाकुण्ड गाउँपालिका"
+  },
+  {
+    "P_ID": "360",
+    "P_CODE": "31002",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Gokulganga Rural Municipality",
+    "LOCAL_GOV_NP": "गोकुलगङ्गा गाउँपालिका"
+  },
+  {
+    "P_ID": "361",
+    "P_CODE": "31003",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Likhu Tamakoshi Rural Municipality",
+    "LOCAL_GOV_NP": "लिखु तामाकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "362",
+    "P_CODE": "31004",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Ramechhap Urban Municipality",
+    "LOCAL_GOV_NP": "रामेछाप नगरपालिका"
+  },
+  {
+    "P_ID": "363",
+    "P_CODE": "31005",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Manthali  Urban Municipality",
+    "LOCAL_GOV_NP": "मन्थली नगरपालिका"
+  },
+  {
+    "P_ID": "364",
+    "P_CODE": "31006",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Khandadevi Rural Municipality",
+    "LOCAL_GOV_NP": "खाँडादेवी गाउँपालिका"
+  },
+  {
+    "P_ID": "365",
+    "P_CODE": "31007",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Doramba Rural Municipality",
+    "LOCAL_GOV_NP": "दोरम्बा गाउँपालिका"
+  },
+  {
+    "P_ID": "366",
+    "P_CODE": "31008",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Ramechhap",
+    "LOCAL_GOV_EN": "Sunapati Rural Municipality",
+    "LOCAL_GOV_NP": "सुनापती गाउँपालिका"
+  },
+  {
+    "P_ID": "367",
+    "P_CODE": "31101",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Dudhouli Urban Municipality",
+    "LOCAL_GOV_NP": "दुधौली नगरपालिका"
+  },
+  {
+    "P_ID": "368",
+    "P_CODE": "31102",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Phikkal Rural Municipality",
+    "LOCAL_GOV_NP": "फिक्कल गाउँपालिका"
+  },
+  {
+    "P_ID": "369",
+    "P_CODE": "31103",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Tinpatan Rural Municipality",
+    "LOCAL_GOV_NP": "तीनपाटन गाउँपालिका"
+  },
+  {
+    "P_ID": "370",
+    "P_CODE": "31104",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Golanjor Rural Municipality",
+    "LOCAL_GOV_NP": "गोलन्जोर गाउँपालिका"
+  },
+  {
+    "P_ID": "371",
+    "P_CODE": "31105",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Kamalamai Urban Municipality",
+    "LOCAL_GOV_NP": "कमलामाई नगरपालिका"
+  },
+  {
+    "P_ID": "372",
+    "P_CODE": "31106",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Sunkoshi Rural Municipality",
+    "LOCAL_GOV_NP": "सुनकोशी गाउँपालिका"
+  },
+  {
+    "P_ID": "373",
+    "P_CODE": "31107",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Ghyanglekha Rural Municipality",
+    "LOCAL_GOV_NP": "ध्याङलेख गाउँपालिका"
+  },
+  {
+    "P_ID": "374",
+    "P_CODE": "31108",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Marin Rural Municipality",
+    "LOCAL_GOV_NP": "मरिण गाउँपालिका"
+  },
+  {
+    "P_ID": "375",
+    "P_CODE": "31109",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Sindhuli",
+    "LOCAL_GOV_EN": "Hariharpurgaghi Rural Municipality",
+    "LOCAL_GOV_NP": "हरिहरपुरगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "376",
+    "P_CODE": "31201",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Indrasarowar Rural Municipality",
+    "LOCAL_GOV_NP": "ईन्द्रसरोवर गाउँपालिका"
+  },
+  {
+    "P_ID": "377",
+    "P_CODE": "31202",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Thaha Urban Municipality",
+    "LOCAL_GOV_NP": "थाहा नगरपालिका"
+  },
+  {
+    "P_ID": "378",
+    "P_CODE": "31203",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Kailash Rural Municipality",
+    "LOCAL_GOV_NP": "कैलाश गाउँपालिका"
+  },
+  {
+    "P_ID": "379",
+    "P_CODE": "31204",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Raksirang Rural Municipality",
+    "LOCAL_GOV_NP": "राक्सिराङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "380",
+    "P_CODE": "31205",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Manahari Rural Municipality",
+    "LOCAL_GOV_NP": "मनहरी गाउँपालिका"
+  },
+  {
+    "P_ID": "381",
+    "P_CODE": "31206",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Hetauda Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "हेटौडा उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "382",
+    "P_CODE": "31207",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Bhimphedi Rural Municipality",
+    "LOCAL_GOV_NP": "भिमफेदी गाउँपालिका"
+  },
+  {
+    "P_ID": "383",
+    "P_CODE": "31208",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Makawanpurgadhi Rural Municipality",
+    "LOCAL_GOV_NP": "मकवानपुरगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "384",
+    "P_CODE": "31209",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Bakaiya Rural Municipality",
+    "LOCAL_GOV_NP": "बकैया गाउँपालिका"
+  },
+  {
+    "P_ID": "385",
+    "P_CODE": "31210",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Makwanpur",
+    "LOCAL_GOV_EN": "Bagmati Rural Municipality",
+    "LOCAL_GOV_NP": "बाग्मती गाउँपालिका"
+  },
+  {
+    "P_ID": "386",
+    "P_CODE": "31301",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Rapti Urban Municipality",
+    "LOCAL_GOV_NP": "राप्ती नगरपालिका"
+  },
+  {
+    "P_ID": "387",
+    "P_CODE": "31302",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Kalika Urban Municipality",
+    "LOCAL_GOV_NP": "कालिका नगरपालिका"
+  },
+  {
+    "P_ID": "388",
+    "P_CODE": "31303",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Ichchha Kamana Rural Municipality",
+    "LOCAL_GOV_NP": "इच्छाकामना गाउँपालिका"
+  },
+  {
+    "P_ID": "389",
+    "P_CODE": "31304",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Bharatpur Metropolitian City",
+    "LOCAL_GOV_NP": "भरतपुर महानगरपालिका"
+  },
+  {
+    "P_ID": "390",
+    "P_CODE": "31305",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Ratnanagar Urban Municipality",
+    "LOCAL_GOV_NP": "रत्ननगर नगरपालिका"
+  },
+  {
+    "P_ID": "391",
+    "P_CODE": "31306",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Khairahani Urban Municipality",
+    "LOCAL_GOV_NP": "खैरहनी नगरपालिका"
+  },
+  {
+    "P_ID": "392",
+    "P_CODE": "31307",
+    "PROVIENCE": "Bagmati",
+    "DISTRICT": "Chitawan",
+    "LOCAL_GOV_EN": "Madi Urban Municipality",
+    "LOCAL_GOV_NP": "मादी नगरपालिका"
+  },
+  {
+    "P_ID": "393",
+    "P_CODE": "40101",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Chumanubri Rural Municipality",
+    "LOCAL_GOV_NP": "चुमनुब्री गाउँपालिका"
+  },
+  {
+    "P_ID": "394",
+    "P_CODE": "40102",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Ajirkot Rural Municipality",
+    "LOCAL_GOV_NP": "अजिरकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "395",
+    "P_CODE": "40103",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Barpak Sulikot Rural Municipality",
+    "LOCAL_GOV_NP": "बारपाक सुलिकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "396",
+    "P_CODE": "40104",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Dharche Rural Municipality",
+    "LOCAL_GOV_NP": "धार्चे गाउँपालिका"
+  },
+  {
+    "P_ID": "397",
+    "P_CODE": "40105",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Aarughat Rural Municipality",
+    "LOCAL_GOV_NP": "आरुघाट गाउँपालिका"
+  },
+  {
+    "P_ID": "398",
+    "P_CODE": "40106",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Bhimsenthapa Rural Municipality",
+    "LOCAL_GOV_NP": "भिमसेनथापा गाउँपालिका"
+  },
+  {
+    "P_ID": "399",
+    "P_CODE": "40107",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Siranchowk Rural Municipality",
+    "LOCAL_GOV_NP": "सिरानचोक गाउँपालिका"
+  },
+  {
+    "P_ID": "400",
+    "P_CODE": "40108",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Palungtar Urban Municipality",
+    "LOCAL_GOV_NP": "पालुङ्गटार नगरपालिका"
+  },
+  {
+    "P_ID": "401",
+    "P_CODE": "40109",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Gorkha Urban Municipality",
+    "LOCAL_GOV_NP": "गोरखा नगरपालिका"
+  },
+  {
+    "P_ID": "402",
+    "P_CODE": "40110",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Shahid Lakhan Rural Municipality",
+    "LOCAL_GOV_NP": "शहीद लखन गाउँपालिका"
+  },
+  {
+    "P_ID": "403",
+    "P_CODE": "40111",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Gorkha",
+    "LOCAL_GOV_EN": "Gandaki Rural Municipality",
+    "LOCAL_GOV_NP": "गण्डकी गाउँपालिका"
+  },
+  {
+    "P_ID": "404",
+    "P_CODE": "40201",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Manang",
+    "LOCAL_GOV_EN": "Narpa Bhumi Rural Municipality",
+    "LOCAL_GOV_NP": "नार्पा भूमि गाउँपालिका"
+  },
+  {
+    "P_ID": "405",
+    "P_CODE": "40202",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Manang",
+    "LOCAL_GOV_EN": "Manang Ngisyang Rural Municipality",
+    "LOCAL_GOV_NP": "मनाङ ङिस्याङ गाउँपालिका"
+  },
+  {
+    "P_ID": "406",
+    "P_CODE": "40203",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Manang",
+    "LOCAL_GOV_EN": "Chame Rural Municipality",
+    "LOCAL_GOV_NP": "चामे गाउँपालिका"
+  },
+  {
+    "P_ID": "407",
+    "P_CODE": "40204",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Manang",
+    "LOCAL_GOV_EN": "Nason Rural Municipality",
+    "LOCAL_GOV_NP": "नासोँ गाउँपालिका"
+  },
+  {
+    "P_ID": "408",
+    "P_CODE": "40301",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Mustang",
+    "LOCAL_GOV_EN": "Lo Ghekar Damodarkunda Rural Municipality",
+    "LOCAL_GOV_NP": "लो-घेकर दामोदरकुण्ड गाउँपालिका"
+  },
+  {
+    "P_ID": "409",
+    "P_CODE": "40302",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Mustang",
+    "LOCAL_GOV_EN": "Gharpajhong Rural Municipality",
+    "LOCAL_GOV_NP": "घरपझोङ गाउँपालिका"
+  },
+  {
+    "P_ID": "410",
+    "P_CODE": "40303",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Mustang",
+    "LOCAL_GOV_EN": "Varagung Muktichhetra Rural Municipality",
+    "LOCAL_GOV_NP": "वारागुङ मुक्तिक्षेत्र गाउँपालिका"
+  },
+  {
+    "P_ID": "411",
+    "P_CODE": "40304",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Mustang",
+    "LOCAL_GOV_EN": "Lomanthang Rural Municipality",
+    "LOCAL_GOV_NP": "लोमन्थाङ गाउँपालिका"
+  },
+  {
+    "P_ID": "412",
+    "P_CODE": "40305",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Mustang",
+    "LOCAL_GOV_EN": "Thasang Rural Municipality",
+    "LOCAL_GOV_NP": "थासाङ गाउँपालिका"
+  },
+  {
+    "P_ID": "413",
+    "P_CODE": "40401",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Annapurna Rural Municipality",
+    "LOCAL_GOV_NP": "अन्नपूर्ण गाउँपालिका"
+  },
+  {
+    "P_ID": "414",
+    "P_CODE": "40402",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Raghuganga Rural Municipality",
+    "LOCAL_GOV_NP": "रघुगंगा गाउँपालिका"
+  },
+  {
+    "P_ID": "415",
+    "P_CODE": "40403",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Dhawalagiri Rural Municipality",
+    "LOCAL_GOV_NP": "धवलागिरी गाउँपालिका"
+  },
+  {
+    "P_ID": "416",
+    "P_CODE": "40404",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Malika Rural Municipality",
+    "LOCAL_GOV_NP": "मालिका गाउँपालिका"
+  },
+  {
+    "P_ID": "417",
+    "P_CODE": "40405",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Mangala Rural Municipality",
+    "LOCAL_GOV_NP": "मंगला गाउँपालिका"
+  },
+  {
+    "P_ID": "418",
+    "P_CODE": "40406",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Myagdi",
+    "LOCAL_GOV_EN": "Beni Urban Municipality",
+    "LOCAL_GOV_NP": "बेनी नगरपालिका"
+  },
+  {
+    "P_ID": "419",
+    "P_CODE": "40501",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Kaski",
+    "LOCAL_GOV_EN": "Madi Rural Municipality",
+    "LOCAL_GOV_NP": "मादी गाउँपालिका"
+  },
+  {
+    "P_ID": "420",
+    "P_CODE": "40502",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Kaski",
+    "LOCAL_GOV_EN": "Machhapuchchhre Rural Municipality",
+    "LOCAL_GOV_NP": "माछापुच्छ्र्े गाउँपालिका"
+  },
+  {
+    "P_ID": "421",
+    "P_CODE": "40503",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Kaski",
+    "LOCAL_GOV_EN": "Annapurna Rural Municipality",
+    "LOCAL_GOV_NP": "अन्नपूर्ण गाउँपालिका"
+  },
+  {
+    "P_ID": "422",
+    "P_CODE": "40504",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Kaski",
+    "LOCAL_GOV_EN": "Pokhara Metropolitian City",
+    "LOCAL_GOV_NP": "पोखरा महानगरपालिका"
+  },
+  {
+    "P_ID": "423",
+    "P_CODE": "40505",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Kaski",
+    "LOCAL_GOV_EN": "Rupa Rural Municipality",
+    "LOCAL_GOV_NP": "रूपा गाउँपालिका"
+  },
+  {
+    "P_ID": "424",
+    "P_CODE": "40601",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Dordi Rural Municipality",
+    "LOCAL_GOV_NP": "दोर्दी गाउँपालिका"
+  },
+  {
+    "P_ID": "425",
+    "P_CODE": "40602",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Marshyangdi Rural Municipality",
+    "LOCAL_GOV_NP": "मस्र्याङ्गदी गाउँपालिका"
+  },
+  {
+    "P_ID": "426",
+    "P_CODE": "40603",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Kwhola Sothar Rural Municipality",
+    "LOCAL_GOV_NP": "क्ब्होलासोथार गाउँपालिका"
+  },
+  {
+    "P_ID": "427",
+    "P_CODE": "40604",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Madhya Nepal Urban Municipality",
+    "LOCAL_GOV_NP": "मध्यनेपाल नगरपालिका"
+  },
+  {
+    "P_ID": "428",
+    "P_CODE": "40605",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Bensi Shahar Urban Municipality",
+    "LOCAL_GOV_NP": "बेंसीशहर नगरापालिका"
+  },
+  {
+    "P_ID": "429",
+    "P_CODE": "40606",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Sundarbazar Urban Municipality",
+    "LOCAL_GOV_NP": "सुन्दरबजार नगरपालिका"
+  },
+  {
+    "P_ID": "430",
+    "P_CODE": "40607",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Rainas Urban Municipality",
+    "LOCAL_GOV_NP": "राईनास नगरपालिका"
+  },
+  {
+    "P_ID": "431",
+    "P_CODE": "40608",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Lamjung",
+    "LOCAL_GOV_EN": "Dudhapokhari Rural Municipality",
+    "LOCAL_GOV_NP": "दुधपोखरी गाउँपालिका"
+  },
+  {
+    "P_ID": "432",
+    "P_CODE": "40701",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Bhanu Urban Municipality",
+    "LOCAL_GOV_NP": "भानु नगरपालिका"
+  },
+  {
+    "P_ID": "433",
+    "P_CODE": "40702",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Byas Urban Municipality",
+    "LOCAL_GOV_NP": "ब्यास नगरपालिका"
+  },
+  {
+    "P_ID": "434",
+    "P_CODE": "40703",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Myagde Rural Municipality",
+    "LOCAL_GOV_NP": "म्याग्दे गाउँपालिका"
+  },
+  {
+    "P_ID": "435",
+    "P_CODE": "40704",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Shuklagandaki Urban Municipality",
+    "LOCAL_GOV_NP": "शुक्लागण्डकी नगरपालिका"
+  },
+  {
+    "P_ID": "436",
+    "P_CODE": "40705",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Bhimad Urban Municipality",
+    "LOCAL_GOV_NP": "भिमाद नगरपालिका"
+  },
+  {
+    "P_ID": "437",
+    "P_CODE": "40706",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Ghiring Rural Municipality",
+    "LOCAL_GOV_NP": "घिरिङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "438",
+    "P_CODE": "40707",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Rhishing Rural Municipality",
+    "LOCAL_GOV_NP": "ऋषिङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "439",
+    "P_CODE": "40708",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Devghat Rural Municipality",
+    "LOCAL_GOV_NP": "देवघाट गाउँपालिका"
+  },
+  {
+    "P_ID": "440",
+    "P_CODE": "40709",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Bandipur Rural Municipality",
+    "LOCAL_GOV_NP": "बन्दिपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "441",
+    "P_CODE": "40710",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Tanahu",
+    "LOCAL_GOV_EN": "Aanbu Khaireni Rural Municipality",
+    "LOCAL_GOV_NP": "आँबुखैरेनी गाउँपालिका"
+  },
+  {
+    "P_ID": "442",
+    "P_CODE": "40801",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Gaidakot Urban Municipality",
+    "LOCAL_GOV_NP": "गैडाकोट नगरपालिका"
+  },
+  {
+    "P_ID": "443",
+    "P_CODE": "40802",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Bulingtar Rural Municipality",
+    "LOCAL_GOV_NP": "बुलिङ्गटार गाउँपालिका"
+  },
+  {
+    "P_ID": "444",
+    "P_CODE": "40803",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Baudikali Rural Municipality",
+    "LOCAL_GOV_NP": "बौदीकाली गाउँपालिका"
+  },
+  {
+    "P_ID": "445",
+    "P_CODE": "40804",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Hupsekot Rural Municipality",
+    "LOCAL_GOV_NP": "हुप्सेकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "446",
+    "P_CODE": "40805",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Devchuli Urban Municipality",
+    "LOCAL_GOV_NP": "देवचुली नगरपालिका"
+  },
+  {
+    "P_ID": "447",
+    "P_CODE": "40806",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Kawasoti Urban Municipality",
+    "LOCAL_GOV_NP": "कावासोती नगरपालिका"
+  },
+  {
+    "P_ID": "448",
+    "P_CODE": "40807",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Madhya Bindu Urban Municipality",
+    "LOCAL_GOV_NP": "मध्यबिन्दु नगरपालिका"
+  },
+  {
+    "P_ID": "449",
+    "P_CODE": "40808",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Nawalparasi (East)",
+    "LOCAL_GOV_EN": "Binayi Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "बिनयी त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "450",
+    "P_CODE": "40901",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Putalibazar Urban Municipality",
+    "LOCAL_GOV_NP": "पुतलीबजार नगरपालिका"
+  },
+  {
+    "P_ID": "451",
+    "P_CODE": "40902",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Phedikhola Rural Municipality",
+    "LOCAL_GOV_NP": "फेदीखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "452",
+    "P_CODE": "40903",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Aandhikhola Rural Municipality",
+    "LOCAL_GOV_NP": "आँधिखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "453",
+    "P_CODE": "40904",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Arjun Choupari Rural Municipality",
+    "LOCAL_GOV_NP": "अर्जुनचौपारी गाउँपालिका"
+  },
+  {
+    "P_ID": "454",
+    "P_CODE": "40905",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Bhirkot Urban Municipality",
+    "LOCAL_GOV_NP": "भीरकोट नगरपालिका"
+  },
+  {
+    "P_ID": "455",
+    "P_CODE": "40906",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Biruwa Rural Municipality",
+    "LOCAL_GOV_NP": "बिरुवा गाउँपालिका"
+  },
+  {
+    "P_ID": "456",
+    "P_CODE": "40907",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Harinas Rural Municipality",
+    "LOCAL_GOV_NP": "हरिनास गाउँपालिका"
+  },
+  {
+    "P_ID": "457",
+    "P_CODE": "40908",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Chapakot Urban Municipality",
+    "LOCAL_GOV_NP": "चापाकोट नगरपालिका"
+  },
+  {
+    "P_ID": "458",
+    "P_CODE": "40909",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Walling Urban Municipality",
+    "LOCAL_GOV_NP": "वालिङ्ग नगरपालिका"
+  },
+  {
+    "P_ID": "459",
+    "P_CODE": "40910",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Galyang Urban Municipality",
+    "LOCAL_GOV_NP": "गल्याङ नगरपालिका"
+  },
+  {
+    "P_ID": "460",
+    "P_CODE": "40911",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Syangja",
+    "LOCAL_GOV_EN": "Kaligandaki Rural Municipality",
+    "LOCAL_GOV_NP": "कालीगण्डकी गाउँपालिका"
+  },
+  {
+    "P_ID": "461",
+    "P_CODE": "41001",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Modi Rural Municipality",
+    "LOCAL_GOV_NP": "मोदी गाउँपालिका"
+  },
+  {
+    "P_ID": "462",
+    "P_CODE": "41002",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Jaljala Rural Municipality",
+    "LOCAL_GOV_NP": "जलजला गाउँपालिका"
+  },
+  {
+    "P_ID": "463",
+    "P_CODE": "41003",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Kushma Urban Municipality",
+    "LOCAL_GOV_NP": "कुश्मा नगरपालिका"
+  },
+  {
+    "P_ID": "464",
+    "P_CODE": "41004",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Phalebas Urban Municipality",
+    "LOCAL_GOV_NP": "फलेबास नगरपालिका"
+  },
+  {
+    "P_ID": "465",
+    "P_CODE": "41005",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Mahashila Rural Municipality",
+    "LOCAL_GOV_NP": "महाशिला गाउँपालिका"
+  },
+  {
+    "P_ID": "466",
+    "P_CODE": "41006",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Bihadi Rural Municipality",
+    "LOCAL_GOV_NP": "बिहादी गाउँपालिका"
+  },
+  {
+    "P_ID": "467",
+    "P_CODE": "41007",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Parbat",
+    "LOCAL_GOV_EN": "Paiyu Rural Municipality",
+    "LOCAL_GOV_NP": "पैयुं गाउँपालिका"
+  },
+  {
+    "P_ID": "468",
+    "P_CODE": "41101",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Baglung Urban Municipality",
+    "LOCAL_GOV_NP": "बाग्लुङ्ग नगरपालिका"
+  },
+  {
+    "P_ID": "469",
+    "P_CODE": "41102",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Kathekhola Rural Municipality",
+    "LOCAL_GOV_NP": "काठेखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "470",
+    "P_CODE": "41103",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Tarakhola Rural Municipality",
+    "LOCAL_GOV_NP": "ताराखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "471",
+    "P_CODE": "41104",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Tamankhola Rural Municipality",
+    "LOCAL_GOV_NP": "तमानखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "472",
+    "P_CODE": "41105",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Dhorpatan Urban Municipality",
+    "LOCAL_GOV_NP": "ढोरपाटन नगरपालिका"
+  },
+  {
+    "P_ID": "473",
+    "P_CODE": "41106",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Nisikhola Rural Municipality",
+    "LOCAL_GOV_NP": "निसीखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "474",
+    "P_CODE": "41107",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Badigad Rural Municipality",
+    "LOCAL_GOV_NP": "बडिगाड गाउँपालिका"
+  },
+  {
+    "P_ID": "475",
+    "P_CODE": "41108",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Galkot Urban Municipality",
+    "LOCAL_GOV_NP": "गल्कोट नगरपालिका"
+  },
+  {
+    "P_ID": "476",
+    "P_CODE": "41109",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Bareng Rural Municipality",
+    "LOCAL_GOV_NP": "बरेङ गाउँपालिका"
+  },
+  {
+    "P_ID": "477",
+    "P_CODE": "41110",
+    "PROVIENCE": "Gandaki",
+    "DISTRICT": "Baglung",
+    "LOCAL_GOV_EN": "Jaimuni Urban Municipality",
+    "LOCAL_GOV_NP": "जैमुनी नगरपालिका"
+  },
+  {
+    "P_ID": "478",
+    "P_CODE": "50101",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rukum (East)",
+    "LOCAL_GOV_EN": "Putha Uttanganga Rural Municipality",
+    "LOCAL_GOV_NP": "पुथा उत्तरगंगा गाउँपालिका"
+  },
+  {
+    "P_ID": "479",
+    "P_CODE": "50102",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rukum (East)",
+    "LOCAL_GOV_EN": "Sisne Rural Municipality",
+    "LOCAL_GOV_NP": "सिस्ने गाउँपालिका"
+  },
+  {
+    "P_ID": "480",
+    "P_CODE": "50103",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rukum (East)",
+    "LOCAL_GOV_EN": "Bhoome Rural Municipality",
+    "LOCAL_GOV_NP": "भूमे गाउँपालिका"
+  },
+  {
+    "P_ID": "481",
+    "P_CODE": "50201",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Sunchhahari Rural Municipality",
+    "LOCAL_GOV_NP": "सुनछहरी गाउँपालिका"
+  },
+  {
+    "P_ID": "482",
+    "P_CODE": "50202",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Thawang Rural Municipality",
+    "LOCAL_GOV_NP": "थबाङ्ग गाउँपालिका"
+  },
+  {
+    "P_ID": "483",
+    "P_CODE": "50203",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Pariwartan Rural Municipality",
+    "LOCAL_GOV_NP": "परिवर्तन गाउँपालिका"
+  },
+  {
+    "P_ID": "484",
+    "P_CODE": "50204",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Gangadev Rural Municipality",
+    "LOCAL_GOV_NP": "गंगादेव गाउँपालिका"
+  },
+  {
+    "P_ID": "485",
+    "P_CODE": "50205",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Madi Rural Municipality",
+    "LOCAL_GOV_NP": "मादी गाउँपालिका"
+  },
+  {
+    "P_ID": "486",
+    "P_CODE": "50206",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "487",
+    "P_CODE": "50207",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Rolpa Urban Municipality",
+    "LOCAL_GOV_NP": "रोल्पा नगरपालिका"
+  },
+  {
+    "P_ID": "488",
+    "P_CODE": "50208",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Runtigadhi Rural Municipality",
+    "LOCAL_GOV_NP": "रुन्टीगढी गाउँपालिका"
+  },
+  {
+    "P_ID": "489",
+    "P_CODE": "50209",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Sunil Smriti Rural Municipality",
+    "LOCAL_GOV_NP": "सुनिल स्मृति गाउँपालिका"
+  },
+  {
+    "P_ID": "490",
+    "P_CODE": "50210",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rolpa",
+    "LOCAL_GOV_EN": "Lungri Rural Municipality",
+    "LOCAL_GOV_NP": "लुङ्ग्री गाउँपालिका"
+  },
+  {
+    "P_ID": "491",
+    "P_CODE": "50301",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Gaumukhi Rural Municipality",
+    "LOCAL_GOV_NP": "गौमुखी गाउँपालिका"
+  },
+  {
+    "P_ID": "492",
+    "P_CODE": "50302",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Naubahini Rural Municipality",
+    "LOCAL_GOV_NP": "नौबहिनी गाउँपालिका"
+  },
+  {
+    "P_ID": "493",
+    "P_CODE": "50303",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Jhimaruk Rural Municipality",
+    "LOCAL_GOV_NP": "झिमरुक गाउँपालिका"
+  },
+  {
+    "P_ID": "494",
+    "P_CODE": "50304",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Pyuthan Urban Municipality",
+    "LOCAL_GOV_NP": "प्यूठान नगरपालिका"
+  },
+  {
+    "P_ID": "495",
+    "P_CODE": "50305",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Sworgadwari Urban Municipality",
+    "LOCAL_GOV_NP": "स्वर्गद्धारी नगरपालिका"
+  },
+  {
+    "P_ID": "496",
+    "P_CODE": "50306",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Mandavi Rural Municipality",
+    "LOCAL_GOV_NP": "माण्डवी गाउँपालिका"
+  },
+  {
+    "P_ID": "497",
+    "P_CODE": "50307",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Mallarani Rural Municipality",
+    "LOCAL_GOV_NP": "मल्लरानी गाउँपालिका"
+  },
+  {
+    "P_ID": "498",
+    "P_CODE": "50308",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Aairawati Rural Municipality",
+    "LOCAL_GOV_NP": "ऐरावती गाउँपालिका"
+  },
+  {
+    "P_ID": "499",
+    "P_CODE": "50309",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Pyuthan",
+    "LOCAL_GOV_EN": "Sarumarani Rural Municipality",
+    "LOCAL_GOV_NP": "सरुमारानी गाउँपालिका"
+  },
+  {
+    "P_ID": "500",
+    "P_CODE": "50401",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Kali Gandaki Rural Municipality",
+    "LOCAL_GOV_NP": "कालिगण्डकी गाउँपालिका"
+  },
+  {
+    "P_ID": "501",
+    "P_CODE": "50402",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Satyawoti Rural Municipality",
+    "LOCAL_GOV_NP": "सत्यवती गाउँपालिका"
+  },
+  {
+    "P_ID": "502",
+    "P_CODE": "50403",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Chandrakot Rural Municipality",
+    "LOCAL_GOV_NP": "चन्द्रकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "503",
+    "P_CODE": "50404",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Musikot Urban Municipality",
+    "LOCAL_GOV_NP": "मुसिकोट नगरपालिका"
+  },
+  {
+    "P_ID": "504",
+    "P_CODE": "50405",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Isma Rural Municipality",
+    "LOCAL_GOV_NP": "ईस्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "505",
+    "P_CODE": "50406",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Malika Rural Municipality",
+    "LOCAL_GOV_NP": "मालिका गाउँपालिका"
+  },
+  {
+    "P_ID": "506",
+    "P_CODE": "50407",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Madane Rural Municipality",
+    "LOCAL_GOV_NP": "मदाने गाउँपालिका"
+  },
+  {
+    "P_ID": "507",
+    "P_CODE": "50408",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Dhurkot Rural Municipality",
+    "LOCAL_GOV_NP": "धुर्कोट गाउँपालिका"
+  },
+  {
+    "P_ID": "508",
+    "P_CODE": "50409",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Resunga Urban Municipality",
+    "LOCAL_GOV_NP": "रेसुङ्गा नगरपालिका"
+  },
+  {
+    "P_ID": "509",
+    "P_CODE": "50410",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Gulmi Durbar Rural Municipality",
+    "LOCAL_GOV_NP": "गुल्मी दरबार गाउँपालिका"
+  },
+  {
+    "P_ID": "510",
+    "P_CODE": "50411",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Chhatrakot Rural Municipality",
+    "LOCAL_GOV_NP": "छत्रकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "511",
+    "P_CODE": "50412",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Gulmi",
+    "LOCAL_GOV_EN": "Ruruchhetra Rural Municipality",
+    "LOCAL_GOV_NP": "रुरुक्षेत्र गाउँपालिका"
+  },
+  {
+    "P_ID": "512",
+    "P_CODE": "50501",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Chhatradev Rural Municipality",
+    "LOCAL_GOV_NP": "छत्रदेव गाउँपालिका"
+  },
+  {
+    "P_ID": "513",
+    "P_CODE": "50502",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Malarani Rural Municipality",
+    "LOCAL_GOV_NP": "मालारानी गाउँपालिका"
+  },
+  {
+    "P_ID": "514",
+    "P_CODE": "50503",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Bhumikasthan Urban Municipality",
+    "LOCAL_GOV_NP": "भुमिकास्थान नगरपालिका"
+  },
+  {
+    "P_ID": "515",
+    "P_CODE": "50504",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Sandhikharka Urban Municipality",
+    "LOCAL_GOV_NP": "सन्धिखर्क नगरपालिका"
+  },
+  {
+    "P_ID": "516",
+    "P_CODE": "50505",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Panini Rural Municipality",
+    "LOCAL_GOV_NP": "पाणिनी गाउँपालिका"
+  },
+  {
+    "P_ID": "517",
+    "P_CODE": "50506",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Arghakhanchi",
+    "LOCAL_GOV_EN": "Shitaganga Urban Municipality",
+    "LOCAL_GOV_NP": "शितगंगा नगरपालिका"
+  },
+  {
+    "P_ID": "518",
+    "P_CODE": "50601",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Rampur Urban Municipality",
+    "LOCAL_GOV_NP": "रामपुर नगरपालिका"
+  },
+  {
+    "P_ID": "519",
+    "P_CODE": "50602",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Purbakhola Rural Municipality",
+    "LOCAL_GOV_NP": "पुर्वखोला गाउँपालिका"
+  },
+  {
+    "P_ID": "520",
+    "P_CODE": "50603",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Rambha Rural Municipality",
+    "LOCAL_GOV_NP": "रम्भा गाउँपालिका"
+  },
+  {
+    "P_ID": "521",
+    "P_CODE": "50604",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Baganaskali Rural Municipality",
+    "LOCAL_GOV_NP": "बगनासकाली गाउँपालिका"
+  },
+  {
+    "P_ID": "522",
+    "P_CODE": "50605",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Tansen Urban Municipality",
+    "LOCAL_GOV_NP": "तानसेन नगरपालिका"
+  },
+  {
+    "P_ID": "523",
+    "P_CODE": "50606",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Ribdikot Rural Municipality",
+    "LOCAL_GOV_NP": "रिब्दीकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "524",
+    "P_CODE": "50607",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Rainadevi Chhahara Rural Municipality",
+    "LOCAL_GOV_NP": "रैनादेवी छहरा गाउँपालिका"
+  },
+  {
+    "P_ID": "525",
+    "P_CODE": "50608",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Tinau Rural Municipality",
+    "LOCAL_GOV_NP": "तिनाउ गाउँपालिका"
+  },
+  {
+    "P_ID": "526",
+    "P_CODE": "50609",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Mathagadhi Rural Municipality",
+    "LOCAL_GOV_NP": "माथागढी गाउँपालिका"
+  },
+  {
+    "P_ID": "527",
+    "P_CODE": "50610",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Palpa",
+    "LOCAL_GOV_EN": "Nisdi Rural Municipality",
+    "LOCAL_GOV_NP": "निस्दी गाउँपालिका"
+  },
+  {
+    "P_ID": "528",
+    "P_CODE": "50701",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Bardaghat Urban Municipality",
+    "LOCAL_GOV_NP": "बर्दघाट नगरपालिका"
+  },
+  {
+    "P_ID": "529",
+    "P_CODE": "50702",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Sunawal Urban Municipality",
+    "LOCAL_GOV_NP": "सुनवल नगरपालिका"
+  },
+  {
+    "P_ID": "530",
+    "P_CODE": "50703",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Ramgram Urban Municipality",
+    "LOCAL_GOV_NP": "रामग्राम नगरपालिका"
+  },
+  {
+    "P_ID": "531",
+    "P_CODE": "50704",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Palhinandan Rural Municipality",
+    "LOCAL_GOV_NP": "पाल्हीनन्दन गाउँपालिका"
+  },
+  {
+    "P_ID": "532",
+    "P_CODE": "50705",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Sarawal Rural Municipality",
+    "LOCAL_GOV_NP": "सरावल गाउँपालिका"
+  },
+  {
+    "P_ID": "533",
+    "P_CODE": "50706",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Pratapapur Rural Municipality",
+    "LOCAL_GOV_NP": "प्रतापपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "534",
+    "P_CODE": "50707",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Nawalparasi (West)",
+    "LOCAL_GOV_EN": "Susta Rural Municipality",
+    "LOCAL_GOV_NP": "सुस्ता गाउँपालिका"
+  },
+  {
+    "P_ID": "535",
+    "P_CODE": "50801",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Devdaha Urban Municipality",
+    "LOCAL_GOV_NP": "देबदह नगरपालिका"
+  },
+  {
+    "P_ID": "536",
+    "P_CODE": "50802",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Butwal Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "बुटवल उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "537",
+    "P_CODE": "50803",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Sainamaina Urban Municipality",
+    "LOCAL_GOV_NP": "सैनामैना नगरपालिका"
+  },
+  {
+    "P_ID": "538",
+    "P_CODE": "50804",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Kanchan Rural Municipality",
+    "LOCAL_GOV_NP": "कञ्चन गाउँपालिका"
+  },
+  {
+    "P_ID": "539",
+    "P_CODE": "50805",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Gaidahawa Rural Municipality",
+    "LOCAL_GOV_NP": "गैडहवा गाउँपालिका"
+  },
+  {
+    "P_ID": "540",
+    "P_CODE": "50806",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Suddhodhan Rural Municipality",
+    "LOCAL_GOV_NP": "सुद्धोधन गाउँपालिका"
+  },
+  {
+    "P_ID": "541",
+    "P_CODE": "50807",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Siyari Rural Municipality",
+    "LOCAL_GOV_NP": "सियारी गाउँपालिका"
+  },
+  {
+    "P_ID": "542",
+    "P_CODE": "50808",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Tilottama Urban Municipality",
+    "LOCAL_GOV_NP": "तिलोत्तमा नगरापालिका"
+  },
+  {
+    "P_ID": "543",
+    "P_CODE": "50809",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Om Satiya Rural Municipality",
+    "LOCAL_GOV_NP": "ओमसतिया गाउँपालिका"
+  },
+  {
+    "P_ID": "544",
+    "P_CODE": "50810",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Rohini Rural Municipality",
+    "LOCAL_GOV_NP": "रोहिणी गाउँपालिका"
+  },
+  {
+    "P_ID": "545",
+    "P_CODE": "50811",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Siddharthanagar Urban Municipality",
+    "LOCAL_GOV_NP": "सिद्धार्थनगर नगरपालिका"
+  },
+  {
+    "P_ID": "546",
+    "P_CODE": "50812",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Mayadevi Rural Municipality",
+    "LOCAL_GOV_NP": "मायादेवी गाउँपालिका"
+  },
+  {
+    "P_ID": "547",
+    "P_CODE": "50813",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Lumbini Sanskritik Urban Municipality",
+    "LOCAL_GOV_NP": "लुम्बिनी साँस्कृतिक नगरपालिका"
+  },
+  {
+    "P_ID": "548",
+    "P_CODE": "50814",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Kotahimai Rural Municipality",
+    "LOCAL_GOV_NP": "कोटहीमाई गाउँपालिका"
+  },
+  {
+    "P_ID": "549",
+    "P_CODE": "50815",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Sammarimai Rural Municipality",
+    "LOCAL_GOV_NP": "सम्मरीमाई गाउँपालिका"
+  },
+  {
+    "P_ID": "550",
+    "P_CODE": "50816",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Rupandehi",
+    "LOCAL_GOV_EN": "Marchawari Rural Municipality",
+    "LOCAL_GOV_NP": "मर्चवारी गाउँपालिका"
+  },
+  {
+    "P_ID": "551",
+    "P_CODE": "50901",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Banganga Urban Municipality",
+    "LOCAL_GOV_NP": "बाणगंगा नगरपालिका"
+  },
+  {
+    "P_ID": "552",
+    "P_CODE": "50902",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Buddhabhumi Urban Municipality",
+    "LOCAL_GOV_NP": "बुद्धभूमी नगरपालिका"
+  },
+  {
+    "P_ID": "553",
+    "P_CODE": "50903",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Shivaraj Urban Municipality",
+    "LOCAL_GOV_NP": "शिवराज नगरपालिका"
+  },
+  {
+    "P_ID": "554",
+    "P_CODE": "50904",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Bijayanagar Rural Municipality",
+    "LOCAL_GOV_NP": "बिजयनगर गाउँपालिका"
+  },
+  {
+    "P_ID": "555",
+    "P_CODE": "50905",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Krishnanagar Urban Municipality",
+    "LOCAL_GOV_NP": "कृष्णनगर नगरपालिका"
+  },
+  {
+    "P_ID": "556",
+    "P_CODE": "50906",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Maharajganj Urban Municipality",
+    "LOCAL_GOV_NP": "महाराजगन्ज नगरपालिका"
+  },
+  {
+    "P_ID": "557",
+    "P_CODE": "50907",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Kapilbastu Urban Municipality",
+    "LOCAL_GOV_NP": "कपिलबस्तु नगरपालिका"
+  },
+  {
+    "P_ID": "558",
+    "P_CODE": "50908",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Yasodhara Rural Municipality",
+    "LOCAL_GOV_NP": "यसोधरा गाउँपालिका"
+  },
+  {
+    "P_ID": "559",
+    "P_CODE": "50909",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Mayadevi Rural Municipality",
+    "LOCAL_GOV_NP": "मायादेवी गाउँपालिका"
+  },
+  {
+    "P_ID": "560",
+    "P_CODE": "50910",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Kapilbastu",
+    "LOCAL_GOV_EN": "Shuddhodhan Rural Municipality",
+    "LOCAL_GOV_NP": "शुद्धोधन गाउँपालिका"
+  },
+  {
+    "P_ID": "561",
+    "P_CODE": "51001",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Bangalachuli Rural Municipality",
+    "LOCAL_GOV_NP": "बंगलाचुली गाउँपालिका"
+  },
+  {
+    "P_ID": "562",
+    "P_CODE": "51002",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Ghorahi Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "घोराही उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "563",
+    "P_CODE": "51003",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Tulsipur Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "तुल्सीपुर उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "564",
+    "P_CODE": "51004",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Shantinagar Rural Municipality",
+    "LOCAL_GOV_NP": "शान्तिनगर गाउँपालिका"
+  },
+  {
+    "P_ID": "565",
+    "P_CODE": "51005",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Babai Rural Municipality",
+    "LOCAL_GOV_NP": "बबई गाउँपालिका"
+  },
+  {
+    "P_ID": "566",
+    "P_CODE": "51006",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Dangisharan Rural Municipality",
+    "LOCAL_GOV_NP": "दंगीशरण गाउँपालिका"
+  },
+  {
+    "P_ID": "567",
+    "P_CODE": "51007",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Lamahi Urban Municipality",
+    "LOCAL_GOV_NP": "लमही नगरपालिका"
+  },
+  {
+    "P_ID": "568",
+    "P_CODE": "51008",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Rapti Rural Municipality",
+    "LOCAL_GOV_NP": "राप्ती गाउँपालिका"
+  },
+  {
+    "P_ID": "569",
+    "P_CODE": "51009",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Gadhawa Rural Municipality",
+    "LOCAL_GOV_NP": "गढवा गाउँपालिका"
+  },
+  {
+    "P_ID": "570",
+    "P_CODE": "51010",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Dang",
+    "LOCAL_GOV_EN": "Rajpur Rural Municipality",
+    "LOCAL_GOV_NP": "राजपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "571",
+    "P_CODE": "51101",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Rapti Sonari Rural Municipality",
+    "LOCAL_GOV_NP": "राप्ती सोनारी गाउँपालिका"
+  },
+  {
+    "P_ID": "572",
+    "P_CODE": "51102",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Kohalpur Urban Municipality",
+    "LOCAL_GOV_NP": "कोहलपुर नगरपालिका"
+  },
+  {
+    "P_ID": "573",
+    "P_CODE": "51103",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Baijanath Rural Municipality",
+    "LOCAL_GOV_NP": "बैजनाथ गाउँपालिका"
+  },
+  {
+    "P_ID": "574",
+    "P_CODE": "51104",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Khajura Rural Municipality",
+    "LOCAL_GOV_NP": "खजुरा गाउँपालिका"
+  },
+  {
+    "P_ID": "575",
+    "P_CODE": "51105",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Janaki Rural Municipality",
+    "LOCAL_GOV_NP": "जानकी गाउँपालिका"
+  },
+  {
+    "P_ID": "576",
+    "P_CODE": "51106",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Nepalganj Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "नेपालगञ्ज उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "577",
+    "P_CODE": "51107",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Duduwa Rural Municipality",
+    "LOCAL_GOV_NP": "डुडुवा गाउँपालिका"
+  },
+  {
+    "P_ID": "578",
+    "P_CODE": "51108",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Banke",
+    "LOCAL_GOV_EN": "Narainapur Rural Municipality",
+    "LOCAL_GOV_NP": "नरैनापुर गाउँपालिका"
+  },
+  {
+    "P_ID": "579",
+    "P_CODE": "51201",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Bansgadhi Urban Municipality",
+    "LOCAL_GOV_NP": "बाँसगढी नगरपालिका"
+  },
+  {
+    "P_ID": "580",
+    "P_CODE": "51202",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Barbardiya Urban Municipality",
+    "LOCAL_GOV_NP": "बारबर्दिया नगरपालिका"
+  },
+  {
+    "P_ID": "581",
+    "P_CODE": "51203",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Thakurbaba Urban Municipality",
+    "LOCAL_GOV_NP": "ठाकुरबाबा नगरपालिका"
+  },
+  {
+    "P_ID": "582",
+    "P_CODE": "51204",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Geruwa Rural Municipality",
+    "LOCAL_GOV_NP": "गेरुवा गाउँपालिका"
+  },
+  {
+    "P_ID": "583",
+    "P_CODE": "51205",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Rajapur Urban Municipality",
+    "LOCAL_GOV_NP": "राजापुर नगरपालिका"
+  },
+  {
+    "P_ID": "584",
+    "P_CODE": "51206",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Madhuwan Urban Municipality",
+    "LOCAL_GOV_NP": "मधुवन नगरपालिका"
+  },
+  {
+    "P_ID": "585",
+    "P_CODE": "51207",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Gulariya Urban Municipality",
+    "LOCAL_GOV_NP": "गुलरीया नगरपालिका"
+  },
+  {
+    "P_ID": "586",
+    "P_CODE": "51208",
+    "PROVIENCE": "Lumbini",
+    "DISTRICT": "Bardiya",
+    "LOCAL_GOV_EN": "Badhaiyatal Rural Municipality",
+    "LOCAL_GOV_NP": "बढैयाताल गाउँपालिका"
+  },
+  {
+    "P_ID": "587",
+    "P_CODE": "60101",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Dolpo Buddha Rural Municipality",
+    "LOCAL_GOV_NP": "डोल्पो बुद्ध गाउँपालिका"
+  },
+  {
+    "P_ID": "588",
+    "P_CODE": "60102",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Shey Phoksundo Rural Municipality",
+    "LOCAL_GOV_NP": "शे फोक्सुण्डो गाउँपालिका"
+  },
+  {
+    "P_ID": "589",
+    "P_CODE": "60103",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Jagadulla Rural Municipality",
+    "LOCAL_GOV_NP": "जगदुल्ला गाउँपालिका"
+  },
+  {
+    "P_ID": "590",
+    "P_CODE": "60104",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Mudkechula Rural Municipality",
+    "LOCAL_GOV_NP": "मुड्केचुला गाउँपालिका"
+  },
+  {
+    "P_ID": "591",
+    "P_CODE": "60105",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Tripurasundari Urban Municipality",
+    "LOCAL_GOV_NP": "त्रिपुरासुन्दरी नगरपालिका"
+  },
+  {
+    "P_ID": "592",
+    "P_CODE": "60106",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Thulibheri Urban Municipality",
+    "LOCAL_GOV_NP": "ठुलीभेरी नगरपालिका"
+  },
+  {
+    "P_ID": "593",
+    "P_CODE": "60107",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Kaike Rural Municipality",
+    "LOCAL_GOV_NP": "काइके गाउँपालिका"
+  },
+  {
+    "P_ID": "594",
+    "P_CODE": "60108",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dolpa",
+    "LOCAL_GOV_EN": "Chharka Tangsong Rural Municipality",
+    "LOCAL_GOV_NP": "छार्का ताङसोङ गाउँपालिका"
+  },
+  {
+    "P_ID": "595",
+    "P_CODE": "60201",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Mugu",
+    "LOCAL_GOV_EN": "Mugumakarmarog Rural Municipality",
+    "LOCAL_GOV_NP": "मुगुमकार्मारोग गाउँपालिका"
+  },
+  {
+    "P_ID": "596",
+    "P_CODE": "60202",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Mugu",
+    "LOCAL_GOV_EN": "Chhayanath Rara Urban Municipality",
+    "LOCAL_GOV_NP": "छायाँनाथ रारा नगरपालिका"
+  },
+  {
+    "P_ID": "597",
+    "P_CODE": "60203",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Mugu",
+    "LOCAL_GOV_EN": "Soru Rural Municipality",
+    "LOCAL_GOV_NP": "सोरु गाउँपालिका"
+  },
+  {
+    "P_ID": "598",
+    "P_CODE": "60204",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Mugu",
+    "LOCAL_GOV_EN": "Khatyad Rural Municipality",
+    "LOCAL_GOV_NP": "खत्याड गाउँपालिका"
+  },
+  {
+    "P_ID": "599",
+    "P_CODE": "60301",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Chankheli Rural Municipality",
+    "LOCAL_GOV_NP": "चंखेली गाउँपालिका"
+  },
+  {
+    "P_ID": "600",
+    "P_CODE": "60302",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Kharpunath Rural Municipality",
+    "LOCAL_GOV_NP": "खार्पुनाथ गाउँपालिका"
+  },
+  {
+    "P_ID": "601",
+    "P_CODE": "60303",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Simkot Rural Municipality",
+    "LOCAL_GOV_NP": "सिमकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "602",
+    "P_CODE": "60304",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Namkha Rural Municipality",
+    "LOCAL_GOV_NP": "नाम्खा गाउँपालिका"
+  },
+  {
+    "P_ID": "603",
+    "P_CODE": "60305",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Sarkegad Rural Municipality",
+    "LOCAL_GOV_NP": "सर्केगाड गाउँपालिका"
+  },
+  {
+    "P_ID": "604",
+    "P_CODE": "60306",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Adanchuli Rural Municipality",
+    "LOCAL_GOV_NP": "अदानचुली गाउँपालिका"
+  },
+  {
+    "P_ID": "605",
+    "P_CODE": "60307",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Humla",
+    "LOCAL_GOV_EN": "Tanjakot Rural Municipality",
+    "LOCAL_GOV_NP": "ताँजाकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "606",
+    "P_CODE": "60401",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Patarasi Rural Municipality",
+    "LOCAL_GOV_NP": "पातारासी गाउँपालिका"
+  },
+  {
+    "P_ID": "607",
+    "P_CODE": "60402",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Kanaka Sundari Rural Municipality",
+    "LOCAL_GOV_NP": "कनका सुन्दरी गाउँपालिका"
+  },
+  {
+    "P_ID": "608",
+    "P_CODE": "60403",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Sinja Rural Municipality",
+    "LOCAL_GOV_NP": "सिंजा गाउँपालिका"
+  },
+  {
+    "P_ID": "609",
+    "P_CODE": "60404",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Chandannath Urban Municipality",
+    "LOCAL_GOV_NP": "चन्दननाथ नगरपालिका"
+  },
+  {
+    "P_ID": "610",
+    "P_CODE": "60405",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Guthichaur Rural Municipality",
+    "LOCAL_GOV_NP": "गुठिचौर गाउँपालिका"
+  },
+  {
+    "P_ID": "611",
+    "P_CODE": "60406",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Tatopani Rural Municipality",
+    "LOCAL_GOV_NP": "तातोपानी गाउँपालिका"
+  },
+  {
+    "P_ID": "612",
+    "P_CODE": "60407",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Tila Rural Municipality",
+    "LOCAL_GOV_NP": "तिला गाउँपालिका"
+  },
+  {
+    "P_ID": "613",
+    "P_CODE": "60408",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jumla",
+    "LOCAL_GOV_EN": "Hima Rural Municipality",
+    "LOCAL_GOV_NP": "हिमा गाउँपालिका"
+  },
+  {
+    "P_ID": "614",
+    "P_CODE": "60501",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Palata Rural Municipality",
+    "LOCAL_GOV_NP": "पलाता गाउँपालिका"
+  },
+  {
+    "P_ID": "615",
+    "P_CODE": "60502",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Pachal Jharana Rural Municipality",
+    "LOCAL_GOV_NP": "पचाल झरना गाउँपालिका"
+  },
+  {
+    "P_ID": "616",
+    "P_CODE": "60503",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Raskot Urban Municipality",
+    "LOCAL_GOV_NP": "रास्कोट नगरपालिका"
+  },
+  {
+    "P_ID": "617",
+    "P_CODE": "60504",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Sanni Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "सान्नी त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "618",
+    "P_CODE": "60505",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Naraharinath Rural Municipality",
+    "LOCAL_GOV_NP": "नरहरिनाथ गाउँपालिका"
+  },
+  {
+    "P_ID": "619",
+    "P_CODE": "60506",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Khandachakra Urban Municipality",
+    "LOCAL_GOV_NP": "खाँडाचक्र नगरपालिका"
+  },
+  {
+    "P_ID": "620",
+    "P_CODE": "60507",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Tilagupha Urban Municipality",
+    "LOCAL_GOV_NP": "तिलागुफा नगरपालिका"
+  },
+  {
+    "P_ID": "621",
+    "P_CODE": "60508",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Mahawai Rural Municipality",
+    "LOCAL_GOV_NP": "महावै गाउँपालिका"
+  },
+  {
+    "P_ID": "622",
+    "P_CODE": "60509",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Kalikot",
+    "LOCAL_GOV_EN": "Shuva Kalika Rural Municipality",
+    "LOCAL_GOV_NP": "शुभ कालीका गाउँपालिका"
+  },
+  {
+    "P_ID": "623",
+    "P_CODE": "60601",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Naumule Rural Municipality",
+    "LOCAL_GOV_NP": "नौमुले गाउँपालिका"
+  },
+  {
+    "P_ID": "624",
+    "P_CODE": "60602",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Mahabu Rural Municipality",
+    "LOCAL_GOV_NP": "महाबु गाउँपालिका"
+  },
+  {
+    "P_ID": "625",
+    "P_CODE": "60603",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Bhairabi Rural Municipality",
+    "LOCAL_GOV_NP": "भैरवी गाउँपालिका"
+  },
+  {
+    "P_ID": "626",
+    "P_CODE": "60604",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Thantikandh Rural Municipality",
+    "LOCAL_GOV_NP": "ठाँटीकाँध गाउँपालिका"
+  },
+  {
+    "P_ID": "627",
+    "P_CODE": "60605",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Aathbis Urban Municipality",
+    "LOCAL_GOV_NP": "आठबीस नगरपालिका"
+  },
+  {
+    "P_ID": "628",
+    "P_CODE": "60606",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Chamunda Bindrasaini Urban Municipality",
+    "LOCAL_GOV_NP": "चामुण्डा बिन्द्रासैनी नगरपालिका"
+  },
+  {
+    "P_ID": "629",
+    "P_CODE": "60607",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Dullu Urban Municipality",
+    "LOCAL_GOV_NP": "दुल्लु नगरपालिका"
+  },
+  {
+    "P_ID": "630",
+    "P_CODE": "60608",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Narayan Urban Municipality",
+    "LOCAL_GOV_NP": "नारायण नगरपालिका"
+  },
+  {
+    "P_ID": "631",
+    "P_CODE": "60609",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Bhagawatimai Rural Municipality",
+    "LOCAL_GOV_NP": "भगवतीमाई गाउँपालिका"
+  },
+  {
+    "P_ID": "632",
+    "P_CODE": "60610",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Dungeshwor Rural Municipality",
+    "LOCAL_GOV_NP": "डुङ्गेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "633",
+    "P_CODE": "60611",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Dailekh",
+    "LOCAL_GOV_EN": "Gurans Rural Municipality",
+    "LOCAL_GOV_NP": "गुराँस गाउँपालिका"
+  },
+  {
+    "P_ID": "634",
+    "P_CODE": "60701",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Barekot Rural Municipality",
+    "LOCAL_GOV_NP": "बारेकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "635",
+    "P_CODE": "60702",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Kushe Rural Municipality",
+    "LOCAL_GOV_NP": "कुशे गाउँपालिका"
+  },
+  {
+    "P_ID": "636",
+    "P_CODE": "60703",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Junichande Rural Municipality",
+    "LOCAL_GOV_NP": "जुनीचाँदे गाउँपालिका"
+  },
+  {
+    "P_ID": "637",
+    "P_CODE": "60704",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Chhedagad Urban Municipality",
+    "LOCAL_GOV_NP": "छेडागाड नगरपालिका"
+  },
+  {
+    "P_ID": "638",
+    "P_CODE": "60705",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Shivalaya Rural Municipality",
+    "LOCAL_GOV_NP": "शिवालय गाउँपालिका"
+  },
+  {
+    "P_ID": "639",
+    "P_CODE": "60706",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Bheri Malika Urban Municipality",
+    "LOCAL_GOV_NP": "भेरीमालिका नगरपालिका"
+  },
+  {
+    "P_ID": "640",
+    "P_CODE": "60707",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Jajarkot",
+    "LOCAL_GOV_EN": "Nalgad Urban Municipality",
+    "LOCAL_GOV_NP": "नलगाड नगरपालिका"
+  },
+  {
+    "P_ID": "641",
+    "P_CODE": "60801",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Aathabisakot Urban Municipality",
+    "LOCAL_GOV_NP": "आठबिसकोट नगरपालिका"
+  },
+  {
+    "P_ID": "642",
+    "P_CODE": "60802",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Sanibheri Rural Municipality",
+    "LOCAL_GOV_NP": "सानीभेरी गाउँपालिका"
+  },
+  {
+    "P_ID": "643",
+    "P_CODE": "60803",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Banphikot Rural Municipality",
+    "LOCAL_GOV_NP": "बाँफिकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "644",
+    "P_CODE": "60804",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Musikot Urban Municipality",
+    "LOCAL_GOV_NP": "मुसिकोट नगरपालिका"
+  },
+  {
+    "P_ID": "645",
+    "P_CODE": "60805",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "646",
+    "P_CODE": "60806",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Rukum (West)",
+    "LOCAL_GOV_EN": "Chaurjahari Urban Municipality",
+    "LOCAL_GOV_NP": "चौरजहारी नगरपालिका"
+  },
+  {
+    "P_ID": "647",
+    "P_CODE": "60901",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Darma Rural Municipality",
+    "LOCAL_GOV_NP": "दार्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "648",
+    "P_CODE": "60902",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Kumakh Rural Municipality",
+    "LOCAL_GOV_NP": "कुमाख गाउँपालिका"
+  },
+  {
+    "P_ID": "649",
+    "P_CODE": "60903",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Banagad Kupinde Urban Municipality",
+    "LOCAL_GOV_NP": "बनगाड कुपिण्डे नगरपालिका"
+  },
+  {
+    "P_ID": "650",
+    "P_CODE": "60904",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Siddha Kumakh Rural Municipality",
+    "LOCAL_GOV_NP": "सिद्ध कुमाख गाउँपालिका"
+  },
+  {
+    "P_ID": "651",
+    "P_CODE": "60905",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Bagachour Urban Municipality",
+    "LOCAL_GOV_NP": "बागचौर नगरपालिका"
+  },
+  {
+    "P_ID": "652",
+    "P_CODE": "60906",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Chhatreshwori Rural Municipality",
+    "LOCAL_GOV_NP": "छत्रेश्वरी गाउँपालिका"
+  },
+  {
+    "P_ID": "653",
+    "P_CODE": "60907",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Sharada Urban Municipality",
+    "LOCAL_GOV_NP": "शारदा नगरपालिका"
+  },
+  {
+    "P_ID": "654",
+    "P_CODE": "60908",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Kalimati Rural Municipality",
+    "LOCAL_GOV_NP": "कालिमाटी गाउँपालिका"
+  },
+  {
+    "P_ID": "655",
+    "P_CODE": "60909",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Tribeni Rural Municipality",
+    "LOCAL_GOV_NP": "त्रिवेणी गाउँपालिका"
+  },
+  {
+    "P_ID": "656",
+    "P_CODE": "60910",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Salyan",
+    "LOCAL_GOV_EN": "Kapurkot Rural Municipality",
+    "LOCAL_GOV_NP": "कपुरकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "657",
+    "P_CODE": "61001",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Simta Rural Municipality",
+    "LOCAL_GOV_NP": "सिम्ता गाउँपालिका"
+  },
+  {
+    "P_ID": "658",
+    "P_CODE": "61002",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Chingad Rural Municipality",
+    "LOCAL_GOV_NP": "चिङ्गगाड गाउँपालिका"
+  },
+  {
+    "P_ID": "659",
+    "P_CODE": "61003",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Lekabeshi Urban Municipality",
+    "LOCAL_GOV_NP": "लेकबेशी नगरपालिका"
+  },
+  {
+    "P_ID": "660",
+    "P_CODE": "61004",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Gurbhakot Urban Municipality",
+    "LOCAL_GOV_NP": "गुर्भाकोट नगरपालिका"
+  },
+  {
+    "P_ID": "661",
+    "P_CODE": "61005",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Bheriganga Urban Municipality",
+    "LOCAL_GOV_NP": "भेरीगंगा नगरपालिका"
+  },
+  {
+    "P_ID": "662",
+    "P_CODE": "61006",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Birendranagar Urban Municipality",
+    "LOCAL_GOV_NP": "बीरेन्द्रनगर नगरपालिका"
+  },
+  {
+    "P_ID": "663",
+    "P_CODE": "61007",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Barahatal Rural Municipality",
+    "LOCAL_GOV_NP": "बराहताल गाउँपालिका"
+  },
+  {
+    "P_ID": "664",
+    "P_CODE": "61008",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Panchapuri Urban Municipality",
+    "LOCAL_GOV_NP": "पञ्चपुरी नगरपालिका"
+  },
+  {
+    "P_ID": "665",
+    "P_CODE": "61009",
+    "PROVIENCE": "Karnali",
+    "DISTRICT": "Surkhet",
+    "LOCAL_GOV_EN": "Chaukune Rural Municipality",
+    "LOCAL_GOV_NP": "चौकुने गाउँपालिका"
+  },
+  {
+    "P_ID": "666",
+    "P_CODE": "70101",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Himali Rural Municipality",
+    "LOCAL_GOV_NP": "हिमाली गाउँपालिका"
+  },
+  {
+    "P_ID": "667",
+    "P_CODE": "70102",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Gaumul Rural Municipality",
+    "LOCAL_GOV_NP": "गौमुल गाउँपालिका"
+  },
+  {
+    "P_ID": "668",
+    "P_CODE": "70103",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Budhinanda Urban Municipality",
+    "LOCAL_GOV_NP": "बुढीनन्दा नगरपालिका"
+  },
+  {
+    "P_ID": "669",
+    "P_CODE": "70104",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Swamikartik Khapar Rural Municipality",
+    "LOCAL_GOV_NP": "स्वामीकार्तिक खापर गाउँपालिका"
+  },
+  {
+    "P_ID": "670",
+    "P_CODE": "70105",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Jagannath Rural Municipality",
+    "LOCAL_GOV_NP": "जगन्‍नाथ गाउँपालिका"
+  },
+  {
+    "P_ID": "671",
+    "P_CODE": "70106",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Badimalika Urban Municipality",
+    "LOCAL_GOV_NP": "बडिमालिका नगरपालिका"
+  },
+  {
+    "P_ID": "672",
+    "P_CODE": "70107",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Khaptad Chhededaha Rural Municipality",
+    "LOCAL_GOV_NP": "खप्तड छेडेदह गाउँपालिका"
+  },
+  {
+    "P_ID": "673",
+    "P_CODE": "70108",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Budhiganga Urban Municipality",
+    "LOCAL_GOV_NP": "बुढीगंगा नगरपालिका"
+  },
+  {
+    "P_ID": "674",
+    "P_CODE": "70109",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajura",
+    "LOCAL_GOV_EN": "Tribeni Urban Municipality",
+    "LOCAL_GOV_NP": "त्रिवेणी नगरपालिका"
+  },
+  {
+    "P_ID": "675",
+    "P_CODE": "70201",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Saipal Rural Municipality",
+    "LOCAL_GOV_NP": "साइपाल गाउँपालिका"
+  },
+  {
+    "P_ID": "676",
+    "P_CODE": "70202",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Bungal Urban Municipality",
+    "LOCAL_GOV_NP": "बुंगल नगरपालिका"
+  },
+  {
+    "P_ID": "677",
+    "P_CODE": "70203",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Surma Rural Municipality",
+    "LOCAL_GOV_NP": "सूर्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "678",
+    "P_CODE": "70204",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Talkot Rural Municipality",
+    "LOCAL_GOV_NP": "तालकोट गाउँपालिका"
+  },
+  {
+    "P_ID": "679",
+    "P_CODE": "70205",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Masta Rural Municipality",
+    "LOCAL_GOV_NP": "मष्टा गाउँपालिका"
+  },
+  {
+    "P_ID": "680",
+    "P_CODE": "70206",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Jayaprithbi Urban Municipality",
+    "LOCAL_GOV_NP": "जयपृथ्वी नगरपालिका"
+  },
+  {
+    "P_ID": "681",
+    "P_CODE": "70207",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Chhabis Pathibhara Rural Municipality",
+    "LOCAL_GOV_NP": "छबिस पाथिभरा गाउँपालिका"
+  },
+  {
+    "P_ID": "682",
+    "P_CODE": "70208",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Durgathali Rural Municipality",
+    "LOCAL_GOV_NP": "दुर्गाथली गाउँपालिका"
+  },
+  {
+    "P_ID": "683",
+    "P_CODE": "70209",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Kedarsyun Rural Municipality",
+    "LOCAL_GOV_NP": "केदारस्युँ गाउँपालिका"
+  },
+  {
+    "P_ID": "684",
+    "P_CODE": "70210",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Bitthadchir Rural Municipality",
+    "LOCAL_GOV_NP": "बित्थडचिर गाउँपालिका"
+  },
+  {
+    "P_ID": "685",
+    "P_CODE": "70211",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Thalara Rural Municipality",
+    "LOCAL_GOV_NP": "थलारा गाउँपालिका"
+  },
+  {
+    "P_ID": "686",
+    "P_CODE": "70212",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Bajhang",
+    "LOCAL_GOV_EN": "Khaptad Chhanna Rural Municipality",
+    "LOCAL_GOV_NP": "खप्तडछान्ना गाउँपालिका"
+  },
+  {
+    "P_ID": "687",
+    "P_CODE": "70301",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Byas Rural Municipality",
+    "LOCAL_GOV_NP": "ब्याँस गाउँपालिका"
+  },
+  {
+    "P_ID": "688",
+    "P_CODE": "70302",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Duhun Rural Municipality",
+    "LOCAL_GOV_NP": "दुहुँ गाउँपालिका"
+  },
+  {
+    "P_ID": "689",
+    "P_CODE": "70303",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Mahakali Urban Municipality",
+    "LOCAL_GOV_NP": "महाकाली नगरपालिका"
+  },
+  {
+    "P_ID": "690",
+    "P_CODE": "70304",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Naugad  Rural Municipality",
+    "LOCAL_GOV_NP": "नौगाड गाउँपालिका"
+  },
+  {
+    "P_ID": "691",
+    "P_CODE": "70305",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Apihimal Rural Municipality",
+    "LOCAL_GOV_NP": "अपिहिमाल गाउँपालिका"
+  },
+  {
+    "P_ID": "692",
+    "P_CODE": "70306",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Marma Rural Municipality",
+    "LOCAL_GOV_NP": "मार्मा गाउँपालिका"
+  },
+  {
+    "P_ID": "693",
+    "P_CODE": "70307",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Shailyashikhar Urban Municipality",
+    "LOCAL_GOV_NP": "शैल्यशिखर नगरपालिका"
+  },
+  {
+    "P_ID": "694",
+    "P_CODE": "70308",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Malikarjun Rural Municipality",
+    "LOCAL_GOV_NP": "मालिकार्जुन गाउँपालिका"
+  },
+  {
+    "P_ID": "695",
+    "P_CODE": "70309",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Darchula",
+    "LOCAL_GOV_EN": "Lekam Rural Municipality",
+    "LOCAL_GOV_NP": "लेकम गाउँपालिका"
+  },
+  {
+    "P_ID": "696",
+    "P_CODE": "70401",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Dilasaini Rural Municipality",
+    "LOCAL_GOV_NP": "डीलासैनी गाउँपालिका"
+  },
+  {
+    "P_ID": "697",
+    "P_CODE": "70402",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Dogada Kedar Rural Municipality",
+    "LOCAL_GOV_NP": "दोगडाकेदार गाउँपालिका"
+  },
+  {
+    "P_ID": "698",
+    "P_CODE": "70403",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Puchaundi Urban Municipality",
+    "LOCAL_GOV_NP": "पुचौंडी नगरपालिका"
+  },
+  {
+    "P_ID": "699",
+    "P_CODE": "70404",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Surnaya Rural Municipality",
+    "LOCAL_GOV_NP": "सुर्नया गाउँपालिका"
+  },
+  {
+    "P_ID": "700",
+    "P_CODE": "70405",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Dasharathchand Urban Municipality",
+    "LOCAL_GOV_NP": "दशरथचन्द नगरपालिका"
+  },
+  {
+    "P_ID": "701",
+    "P_CODE": "70406",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Pancheshwor Rural Municipality",
+    "LOCAL_GOV_NP": "पन्चेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "702",
+    "P_CODE": "70407",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Shivanath Rural Municipality",
+    "LOCAL_GOV_NP": "शिवनाथ गाउँपालिका"
+  },
+  {
+    "P_ID": "703",
+    "P_CODE": "70408",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Melauli Urban Municipality",
+    "LOCAL_GOV_NP": "मेलौली नगरपालिका"
+  },
+  {
+    "P_ID": "704",
+    "P_CODE": "70409",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Patan Urban Municipality",
+    "LOCAL_GOV_NP": "पाटन नगरपालिका"
+  },
+  {
+    "P_ID": "705",
+    "P_CODE": "70410",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Baitadi",
+    "LOCAL_GOV_EN": "Sigas Rural Municipality",
+    "LOCAL_GOV_NP": "सिगास गाउँपालिका"
+  },
+  {
+    "P_ID": "706",
+    "P_CODE": "70501",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Nawadurga Rural Municipality",
+    "LOCAL_GOV_NP": "नवदुर्गा गाउँपालिका"
+  },
+  {
+    "P_ID": "707",
+    "P_CODE": "70502",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Amargadhi Urban Municipality",
+    "LOCAL_GOV_NP": "अमरगढी नगरपालिका"
+  },
+  {
+    "P_ID": "708",
+    "P_CODE": "70503",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Ajayameru Rural Municipality",
+    "LOCAL_GOV_NP": "अजयमेरु गाउँपालिका"
+  },
+  {
+    "P_ID": "709",
+    "P_CODE": "70504",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Bhageshwor Rural Municipality",
+    "LOCAL_GOV_NP": "भागेश्वर गाउँपालिका"
+  },
+  {
+    "P_ID": "710",
+    "P_CODE": "70505",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Parashuram Urban Municipality",
+    "LOCAL_GOV_NP": "परशुराम नगरपालिका"
+  },
+  {
+    "P_ID": "711",
+    "P_CODE": "70506",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Aalital Rural Municipality",
+    "LOCAL_GOV_NP": "आलिताल गाउँपालिका"
+  },
+  {
+    "P_ID": "712",
+    "P_CODE": "70507",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Dadeldhura",
+    "LOCAL_GOV_EN": "Ganyapdhura Rural Municipality",
+    "LOCAL_GOV_NP": "गन्यापधुरा गाउँपालिका"
+  },
+  {
+    "P_ID": "713",
+    "P_CODE": "70601",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Purbichouki Rural Municipality",
+    "LOCAL_GOV_NP": "पुर्विचौकी गाउँपालिका"
+  },
+  {
+    "P_ID": "714",
+    "P_CODE": "70602",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Sayal Rural Municipality",
+    "LOCAL_GOV_NP": "सायल गाउँपालिका"
+  },
+  {
+    "P_ID": "715",
+    "P_CODE": "70603",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Aadarsha Rural Municipality",
+    "LOCAL_GOV_NP": "आदर्श गाउँपालिका"
+  },
+  {
+    "P_ID": "716",
+    "P_CODE": "70604",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Shikhar Urban Municipality",
+    "LOCAL_GOV_NP": "शिखर नगरपालिका"
+  },
+  {
+    "P_ID": "717",
+    "P_CODE": "70605",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Dipayal Silgadhi Urban Municipality",
+    "LOCAL_GOV_NP": "दिपायल सिलगढी नगरपालिका"
+  },
+  {
+    "P_ID": "718",
+    "P_CODE": "70606",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "K.I. Singh Rural Municipality",
+    "LOCAL_GOV_NP": "के.आई.सिं. गाउँपालिका"
+  },
+  {
+    "P_ID": "719",
+    "P_CODE": "70607",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Bogatan Phudsil Rural Municipality",
+    "LOCAL_GOV_NP": "बोगटान फुड्सिल गाउँपालिका"
+  },
+  {
+    "P_ID": "720",
+    "P_CODE": "70608",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Badi Kedar Rural Municipality",
+    "LOCAL_GOV_NP": "बडीकेदार गाउँपालिका"
+  },
+  {
+    "P_ID": "721",
+    "P_CODE": "70609",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Doti",
+    "LOCAL_GOV_EN": "Jorayal Rural Municipality",
+    "LOCAL_GOV_NP": "जोरायल गाउँपालिका"
+  },
+  {
+    "P_ID": "722",
+    "P_CODE": "70701",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Panchdebal Binayak Urban Municipality",
+    "LOCAL_GOV_NP": "पंचदेवल बिनायक नगरपालिका"
+  },
+  {
+    "P_ID": "723",
+    "P_CODE": "70702",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Ramaroshan Rural Municipality",
+    "LOCAL_GOV_NP": "रामारोशन गाउँपालिका"
+  },
+  {
+    "P_ID": "724",
+    "P_CODE": "70703",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Mellekh Rural Municipality",
+    "LOCAL_GOV_NP": "मेल्लेख गाउँपालिका"
+  },
+  {
+    "P_ID": "725",
+    "P_CODE": "70704",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Sanphebagar Urban Municipality",
+    "LOCAL_GOV_NP": "साँफेबगर नगरपालिका"
+  },
+  {
+    "P_ID": "726",
+    "P_CODE": "70705",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Chaurpati Rural Municipality",
+    "LOCAL_GOV_NP": "चौरपाटी गाउँपालिका"
+  },
+  {
+    "P_ID": "727",
+    "P_CODE": "70706",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Mangalsen Urban Municipality",
+    "LOCAL_GOV_NP": "मंगलसेन नगरपालिका"
+  },
+  {
+    "P_ID": "728",
+    "P_CODE": "70707",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Bannigadhi Jayagadh Rural Municipality",
+    "LOCAL_GOV_NP": "बान्नीगढी जयगढ गाउँपालिका"
+  },
+  {
+    "P_ID": "729",
+    "P_CODE": "70708",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Kamal bazar Urban Municipality",
+    "LOCAL_GOV_NP": "कमलबजार नगरपालिका"
+  },
+  {
+    "P_ID": "730",
+    "P_CODE": "70709",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Dhakari Rural Municipality",
+    "LOCAL_GOV_NP": "ढकारी गाउँपालिका"
+  },
+  {
+    "P_ID": "731",
+    "P_CODE": "70710",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Achham",
+    "LOCAL_GOV_EN": "Turmakhand Rural Municipality",
+    "LOCAL_GOV_NP": "तुर्माखाँद गाउँपालिका"
+  },
+  {
+    "P_ID": "732",
+    "P_CODE": "70801",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Mohanyal Rural Municipality",
+    "LOCAL_GOV_NP": "मोहन्याल गाउँपालिका"
+  },
+  {
+    "P_ID": "733",
+    "P_CODE": "70802",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Chure Rural Municipality",
+    "LOCAL_GOV_NP": "चुरे गाउँपालिका"
+  },
+  {
+    "P_ID": "734",
+    "P_CODE": "70803",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Godawari Urban Municipality",
+    "LOCAL_GOV_NP": "गोदावरी नगरपालिका"
+  },
+  {
+    "P_ID": "735",
+    "P_CODE": "70804",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Gauriganga Urban Municipality",
+    "LOCAL_GOV_NP": "गौरीगंगा नगरपालिका"
+  },
+  {
+    "P_ID": "736",
+    "P_CODE": "70805",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Ghodaghodi Urban Municipality",
+    "LOCAL_GOV_NP": "घोडाघोडी नगरपालिका"
+  },
+  {
+    "P_ID": "737",
+    "P_CODE": "70806",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Bardagoriya Rural Municipality",
+    "LOCAL_GOV_NP": "बर्दगोरिया गाउँपालिका"
+  },
+  {
+    "P_ID": "738",
+    "P_CODE": "70807",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Lamki Chuha Urban Municipality",
+    "LOCAL_GOV_NP": "लम्कि चुहा नगरपालिका"
+  },
+  {
+    "P_ID": "739",
+    "P_CODE": "70808",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Janaki Rural Municipality",
+    "LOCAL_GOV_NP": "जानकी गाउँपालिका"
+  },
+  {
+    "P_ID": "740",
+    "P_CODE": "70809",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Joshipur Rural Municipality",
+    "LOCAL_GOV_NP": "जोशीपुर गाउँपालिका"
+  },
+  {
+    "P_ID": "741",
+    "P_CODE": "70810",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Tikapur Urban Municipality",
+    "LOCAL_GOV_NP": "टिकापुर नगरपालिका"
+  },
+  {
+    "P_ID": "742",
+    "P_CODE": "70811",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Bhajani Urban Municipality",
+    "LOCAL_GOV_NP": "भजनी नगरपालिका"
+  },
+  {
+    "P_ID": "743",
+    "P_CODE": "70812",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Kailari Rural Municipality",
+    "LOCAL_GOV_NP": "कैलारी गाउँपालिका"
+  },
+  {
+    "P_ID": "744",
+    "P_CODE": "70813",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kailali",
+    "LOCAL_GOV_EN": "Dhangadhi Sub-Metropolitian City",
+    "LOCAL_GOV_NP": "धनगढी उपमहानगरपालिका"
+  },
+  {
+    "P_ID": "745",
+    "P_CODE": "70901",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Krishnapur Urban Municipality",
+    "LOCAL_GOV_NP": "कृष्णपुर नगरपालिका"
+  },
+  {
+    "P_ID": "746",
+    "P_CODE": "70902",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Shuklaphanta Urban Municipality",
+    "LOCAL_GOV_NP": "शुक्लाफाँटा नगरपालिका"
+  },
+  {
+    "P_ID": "747",
+    "P_CODE": "70903",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Bedkot Urban Municipality",
+    "LOCAL_GOV_NP": "बेदकोट नगरपालिका"
+  },
+  {
+    "P_ID": "748",
+    "P_CODE": "70904",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Bhimdatta Urban Municipality",
+    "LOCAL_GOV_NP": "भिमदत्त नगरपालिका"
+  },
+  {
+    "P_ID": "749",
+    "P_CODE": "70905",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Mahakali Urban Municipality",
+    "LOCAL_GOV_NP": "महाकाली नगरपालिका"
+  },
+  {
+    "P_ID": "750",
+    "P_CODE": "70906",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Laljhadi Rural Municipality",
+    "LOCAL_GOV_NP": "लालझाडी गाउँपालिका"
+  },
+  {
+    "P_ID": "751",
+    "P_CODE": "70907",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Punarbas Urban Municipality",
+    "LOCAL_GOV_NP": "पुनर्वास नगरपालिका"
+  },
+  {
+    "P_ID": "752",
+    "P_CODE": "70908",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Belouri Urban Municipality",
+    "LOCAL_GOV_NP": "बेलौरी नगरपालिका"
+  },
+  {
+    "P_ID": "753",
+    "P_CODE": "70909",
+    "PROVIENCE": "Sudur-Paschim",
+    "DISTRICT": "Kanchanpur",
+    "LOCAL_GOV_EN": "Beldandi Rural Municipality",
+    "LOCAL_GOV_NP": "बेलडाँडी गाउँपालिका"
+  },
+  {
+    "P_ID": "754",
+    "P_CODE": "9999",
+    "PROVIENCE": "Not Listed",
+    "DISTRICT": "Not Listed",
+    "LOCAL_GOV_EN": "Not Listed",
+    "LOCAL_GOV_NP": "यहाँ उल्लेख गरीएको छैन "
+  }
+]
