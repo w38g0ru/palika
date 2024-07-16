@@ -7,7 +7,7 @@ CREATE TABLE `PALIKA` (
   `LOCAL_GOV_NP` VARCHAR(34) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-INSERT INTO `PALIKA` (`P_ID`, `P_CODE`, `PROVIENCE`, `DISTRICT`, `LOCAL_GOV_EN`, `LOCAL_GOV_NP`) VALUES
+INSERT INTO `PALIKA` (`P_ID`, `P_CODE`, `PROVINCE`, `DISTRICT`, `LOCAL_GOV_EN`, `LOCAL_GOV_NP`) VALUES
 (1, 10101, 'Koshi', 'Taplejung', 'Phaktanlung Rural Municipality', 'फक्ताङ्लुङ्ग गाउँपालिका'),
 (2, 10102, 'Koshi', 'Taplejung', 'Mikwakhola Rural Municipality', 'मिक्वाखोला गाउँपालिका'),
 (3, 10103, 'Koshi', 'Taplejung', 'Meringden Rural Municipality', 'मेरिङ्गदेन गाउँपालिका'),
@@ -565,8 +565,7 @@ INSERT INTO `PALIKA` (`P_ID`, `P_CODE`, `PROVIENCE`, `DISTRICT`, `LOCAL_GOV_EN`,
 (555, 50905, 'Lumbini', 'Kapilbastu', 'Krishnanagar Urban Municipality', 'कृष्णनगर नगरपालिका'),
 (556, 50906, 'Lumbini', 'Kapilbastu', 'Maharajganj Urban Municipality', 'महाराजगन्ज नगरपालिका'),
 (557, 50907, 'Lumbini', 'Kapilbastu', 'Kapilbastu Urban Municipality', 'कपिलबस्तु नगरपालिका'),
-(558, 50908, 'Lumbini', 'Kapilbastu', 'Yasodhara Rural Municipality', 'यसोधरा गाउँपालिका');
-INSERT INTO `PALIKA` (`P_ID`, `P_CODE`, `PROVIENCE`, `DISTRICT`, `LOCAL_GOV_EN`, `LOCAL_GOV_NP`) VALUES
+(558, 50908, 'Lumbini', 'Kapilbastu', 'Yasodhara Rural Municipality', 'यसोधरा गाउँपालिका'),
 (559, 50909, 'Lumbini', 'Kapilbastu', 'Mayadevi Rural Municipality', 'मायादेवी गाउँपालिका'),
 (560, 50910, 'Lumbini', 'Kapilbastu', 'Shuddhodhan Rural Municipality', 'शुद्धोधन गाउँपालिका'),
 (561, 51001, 'Lumbini', 'Dang', 'Bangalachuli Rural Municipality', 'बंगलाचुली गाउँपालिका'),
